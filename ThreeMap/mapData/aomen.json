@@ -1,0 +1,272 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 820001,
+                "name": "花地玛堂区",
+                "center": [
+                    113.552965,
+                    22.207882
+                ],
+                "centroid": [
+                    113.561427,
+                    22.201995
+                ],
+                "childrenNum": 0,
+                "level": "district",
+                "parent": {
+                    "adcode": 820000
+                },
+                "subFeatureIndex": 0,
+                "acroutes": [
+                    100000,
+                    820000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "{{~sTuhofCT{JpCeCfCgMnDsOsJsFaBHu@O}BOgJ?ePxBw@@]Kg@o@c@Po@wAKCmAuBI]yDwJ_E_CeDDy@TwHDuBj@QS{BMsAVyA?yAWeAg@gDSVpGKZ[R{EqB}~@vVy@Z}d@~TcJhc@m@na@of@rgAb_CifAFD`DmB?IvEsCJ?Yc@Qs@?aDD{CPoAp@oAx@o@pAs@fAY`BIf@MbJgHJ?fA}@`DcC@ElVyQz@Ur@?lGrA@BnE~@F?`RzDbYdE"
+                    ],
+                    [
+                        "szgtTscofC?`a@|@bDzLjHpj@[`CqA|@aC?{a@UaEu_AC"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 820002,
+                "name": "花王堂区",
+                "center": [
+                    113.549052,
+                    22.199175
+                ],
+                "centroid": [
+                    113.546753,
+                    22.198828
+                ],
+                "childrenNum": 0,
+                "level": "district",
+                "parent": {
+                    "adcode": 820000
+                },
+                "subFeatureIndex": 1,
+                "acroutes": [
+                    100000,
+                    820000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "cu~sTs{mfCsFo\\ZqNcYeEaR{DG?oE_AACmGsAs@?{@TmVxQADaDbC|DxDjG`FfIvFADbEvCH?lIhGRTN~@S|EB~@^h@`As@tEb@F~@v@VrDdCR@dDcCpDeBfGwBn@OhLqArDa@"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 820003,
+                "name": "望德堂区",
+                "center": [
+                    113.550252,
+                    22.193791
+                ],
+                "centroid": [
+                    113.554545,
+                    22.195889
+                ],
+                "childrenNum": 0,
+                "level": "district",
+                "parent": {
+                    "adcode": 820000
+                },
+                "subFeatureIndex": 2,
+                "acroutes": [
+                    100000,
+                    820000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "crbtTa`nfCzB|AvI~Hl@x@bChEjCk@fGgA`Dc@`BOxEIbC?zAFxC^XAdGoB_@i@C_AR}EO_ASUmIiGI?cEwC@EgIwFkGaF}DyDgA|@K?cJfHg@LaBHgAXqAr@y@n@q@nAQnAEzC?`DPr@Xb@"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 820004,
+                "name": "大堂区",
+                "center": [
+                    113.55374,
+                    22.188119
+                ],
+                "centroid": [
+                    113.557955,
+                    22.17835
+                ],
+                "childrenNum": 0,
+                "level": "district",
+                "parent": {
+                    "adcode": 820000
+                },
+                "subFeatureIndex": 3,
+                "acroutes": [
+                    100000,
+                    820000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "e~~sTylgfCdVqn@`@sFrGkLfFwHxFi_@}IzFaBwCsIhBuAHkAKuAe@m@m@m@}ASeBH_CWq@iDwAo@_@Wa@e@aDQe@a@[u@QiHw@]GEYCwEIwAi@_E_AaDi@eAsB{Cg@}@i@cBU]gDmDmAy@DKvDmDxEyD`TiRiLpAo@NgGvBqDdBeDbCSAsDeCw@WG_AuEc@aAr@eGnBY@yC_@{AGcC?yEHaBNaDb@gGfAkCj@cCiEm@y@wI_I{B}AK?wErC?HaDlBGEc_ChfAy[~s@jgDnm@f|AtXRKRVlUdE"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 820005,
+                "name": "风顺堂区",
+                "center": [
+                    113.54167,
+                    22.187778
+                ],
+                "centroid": [
+                    113.539116,
+                    22.185895
+                ],
+                "childrenNum": 0,
+                "level": "district",
+                "parent": {
+                    "adcode": 820000
+                },
+                "subFeatureIndex": 4,
+                "acroutes": [
+                    100000,
+                    820000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "en}sTm{jfCe@qM_DyKkEoG`EyBkZgd@_DgRsD`@aThRyExDwDlDEJlAx@fDlDT\\h@bBf@|@rBzCh@dA~@`Dh@~DHvABvEDX\\FhHv@t@P`@ZPd@d@`DV`@n@^hDvAVp@I~BRdBl@|Al@l@tAd@jAJtAIrIiB`BvC|I{F"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 820006,
+                "name": "嘉模堂区",
+                "center": [
+                    113.558783,
+                    22.154124
+                ],
+                "centroid": [
+                    113.573356,
+                    22.157677
+                ],
+                "childrenNum": 0,
+                "level": "district",
+                "parent": {
+                    "adcode": 820000
+                },
+                "subFeatureIndex": 5,
+                "acroutes": [
+                    100000,
+                    820000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "wp`tTu_efCvZi]xUym@mUeESWSJg|AuXkgDom@kg@fiAiv@`vCxnAqe@`sAed@pAc@x@o@fBcCz@k@l@@hA^`IxD|A~@x@l@V^?^u@hBBt@VRpJhEh@NnA@x@u@@gA]kAE]H_Ar@sB\\i@h@[xD_Ah@k@ZsAv@o@lBm@dA?hFdB^R^`ALzATfBXx@l@~@`@Zz@\\`Cf@bAJhA@rCOv@T`BpAdAJ`AS`PsE~AW|LUnNDnNM"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 820007,
+                "name": "路凼填海区",
+                "center": [
+                    113.56925,
+                    22.136546
+                ],
+                "centroid": [
+                    113.56766,
+                    22.139899
+                ],
+                "childrenNum": 0,
+                "level": "district",
+                "parent": {
+                    "adcode": 820000
+                },
+                "subFeatureIndex": 6,
+                "acroutes": [
+                    100000,
+                    820000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "_oatTsi`fCoCqjBxY{`@zFsGoNLoNE}LT_BVaPrEaAReAKaBqAw@UsCNiAAcAKaCg@{@]a@[m@_AYy@UgBM{A_@aA_@SiFeBeA?mBl@w@n@[rAi@j@yD~@i@Z]h@s@rBI~@D\\\\jAAfAy@t@oAAi@OqJiEWSCu@t@iB?_@W_@y@m@}A_AaIyDiA_@m@A{@j@gBbCy@n@qAb@asAdd@~^vf@hE`HrC`CzDvAvCZ~FRdGVvC^dCz@vCbBbEvCzC`BnD`AxD\\hDDlPOx@Fj@XRl@TlRD`@l@l@hARlNSt@FZ\\~@hDV\\t}@|K"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 820008,
+                "name": "圣方济各堂区",
+                "center": [
+                    113.559954,
+                    22.124049
+                ],
+                "centroid": [
+                    113.577403,
+                    22.123389
+                ],
+                "childrenNum": 0,
+                "level": "district",
+                "parent": {
+                    "adcode": 820000
+                },
+                "subFeatureIndex": 7,
+                "acroutes": [
+                    100000,
+                    820000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "_oatTsi`fCu}@}KW]_AiD[]u@GmNRiASm@m@Ea@UmRSm@k@Yy@GmPNiDEyD]oDaA{CaBcEwCwCcBeC{@wC_@eGW_GSwC[{DwAsCaCiEaH__@wf@ynApe@aKx_@d@`Bfe@jl@pkBj_BvFxCjOzCn~A`KvG?n_@{ErEm`@iBmmA"
+                    ]
+                ]
+            }
+        }
+    ]
+}

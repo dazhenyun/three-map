@@ -1,0 +1,632 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 370100,
+                "name": "济南市",
+                "center": [
+                    117.000923,
+                    36.675807
+                ],
+                "centroid": [
+                    117.221244,
+                    36.639974
+                ],
+                "childrenNum": 12,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 0,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "{}wjU{qadFiLdg@gv@pWiLjkAi`CjMs`Ahs@`_@zkAxeDjo@zJjo@y_Cna@wRxX~kAzq@{tAlf@{rGkTueBx{AjH`fBhq@tuAys@by@kiEhkByxA|{AxLdhCdXxnAiNnaCod@bjAomAjfAyL`qAc[_A{GpyAab@vo@loAcZlh@|cAs\\jUh~BN~f@`|AiOxn@}oA`jBopBraBmh@trAkGlvAmh@dQ?`_As]vaDeYjo@pmBfeBhlE|X~oBdd@z`DxwAbsDe\\wQnlBfPzz@baAraAbbAdb@iKb{@qdAt{@m{Cdp@aiAls@}oAflFmrAf^olA_RqeA}x@qlB|y@qgAgSixAvA}tBwT|E}k@qoB_Xw~AfRu}@|jAciBsdCokAgGoe@lw@~c@vb@ucB~^|C|{ArcAfZxM~i@phAwn@``@v|@syEdbByyAveC{F~l@`_@nu@xNh~AwRxfAenDrwDgvFjeBqxDtiCe|@dxBis@z{@eoDwJsoChm@raAvvBwSrs@feCvdB|Abj@xMjh@xxArd@~d@xpBwPnvAscAvGgSdy@dVjk@mi@tn@lAbiBhs@gEjHzb@xyAvD{l@ba@akB_Fhs@tj@it@z|Aht@iQraAdg@jJle@ydDfv@gQrnAw`Bfm@gRtwAyr@vEg}AzgA~@zTzuA_BtaBd^kl@|g@omAxLkIjhAxu@dc@ciBhv@ht@zaAog@ff@jo@fn@quCjXmh@nj@u}@m`@wP`m@aoBcWaa@gj@u_AF~e@jbBwOjy@}~Cd]eY|qCir@bRokAlaByMzuAir@cy@s]pi@zIrzBgx@ymAmnAiD_sB~gAlAxi@zuAd{@zFxj@og@l[hMbnAyt@xgBbZxe@_d@pb@scA{LcvDpb@yMxd@xr@~vAtVnpCc[p_Axs@p_Af_B}Uf_BjfA|i@kk@|j@tP{Ftr@loA|~Bww@vA_c@vr@`eAraA{m@njAhLfp@_iA|~AfPfm@c`AvaBys@Wmh@{d@km@t~@lDhs@lj@~@bZr{@mj@rx@lpArGvQjw@{vAl{@wQtvClg@`Ekm@~`C|qAGhNip@vv@aCvS_`Axr@q[zxB_ApoB`XraAzv@niAhB~mAs^|pApWvTk`@nuCnA~f@sL~lA`p@zFbiA|sBb]pb@cGNo_A~e@u{@}h@qm@v~AegBdbB|f@p`@st@lwB_k@`eAgk@voElOjaDm~@rrDqaBz`D`FhxAa]vu@au@p_@upB|nAy_@btDhqAx{AjIne@_YpdAlcAdgCzMr]a\\ww@qs@zF}aAiu@sb@rgBwW}nAatDwz@q]km@n[afAyw@~kAyuAhyAdQxwAogB|g@wY_jAuiAb\\oAlAi{AzxB}Sv}AbbAtcBq^`fA{cAkp@n@n@yaA_wCye@vSwvC|wBxGgS{jBt~@aJ_AobAhr@mtBgw@wcA|DqhAl{CojCrcA_nBjGc_B`a@eaApa@kgC~@mlA{o@slBlBaq@`dAiOdqDgC?u^nsBsW}Cvl@lqAjlBniApKjwA|lAjn@`eC`tCzw@vz@pDzo@b`Bvx@tcAbbAve@kKnhAvSxn@~pBxFltBne@pa@faAl}C_`@bZpHnsBqk@`fAjuC}@d{AdUn`Alk@_@taBzq@vQn^~nBpe@fQlt@`uCtUlBxbAv}AtV~jAzm@nsBsfBlh@jNpkBw[tX}p@|iFfyAnoBut@p`@kiBnkA}t@o@qiA|{Cbk@thCwZdhCclAzuA_Ct~@hh@`xDheAdlCn|Afy@aExyAn\\rbAqFxeDuvBfpEpF`_@zjAhzApfAxr@jL~e@trA|i@}p@f`BbNng@|qAtbBrLrbAg{@|qAjJ~c@tpAfcCvYiMtn@f|AfuAgy@fmB{|BnYyr@lbBw`Bnt@tXtdA`hA`v@vQdk@omANwu@oXfSj}@qnBwYw_Bbc@eU~jA}i@|PhLr}@nkApBhq@tj@fSdzAbdA`lAdoDrz@xlE^lvB|g@vO~aAx{Aju@{Hqp@~g@{c@uVgm@pa@on@nqBqBxs@sd@vQ}`A`eA}e@heDzd@zm@dvAjvA|aAzuAzc@hyAjKpb@dd@tTp}A|g@w@roCslAdUcx@lC}cC_e@ayBjIocBd_AioAh{AcfDx_C}vCgv@}k@{|BimC}{C_qB_e@ujByaCy}BuUadA_iAmwAyt@qd@omGsqAkhEo}AatChEsbAmV{n@e_Bc}Ef@mvBmmEudBswAyt@kRamBkfCixGam@gcC_k@km@m_@{EwoAfz@kmB{HoxApkBoj@xM}a@wu@yx@ejCqKgQsgAbjBgl@zIcXiyAkmAmi@siAcjB~AokAwv@uW_~@jIk~AgcCyLoiA_aAlEugB{zB_EssD_gAalBglAuUewBkwAuu@uTubAN{xB}uBaTgR}kAunD_jBqgAaXmwBqNokAkz@}nAqb@fQknA|pAwDp_@}sBwO_uCs[i~@w}AvBpa@anAc\\qy@q`@fTigDhl@kuAwDwOyd@jFa_Bgz@f@eWnb@i{AoTlEizCkGycDpb@glCboCgz@`iAot@moAGdUugAkHurAj_D_Vd}@nB{Gm{AlpA}d@lAep@bbA}o@sfBoTedBceBc|EciAqa@eb@rZec@v`Bku@fTotBpa@agAlCahA_mAkm@i~H_qAehCsn@kzBvHy_CmQyNwjAolAuN`_@}ZdX{vBsdAmX{IsmB~d@gz@njAk^zp@lKoAekAv_Bio@ktAgw@}BcrA_e@eHzG_v@vv@ya@xKucAiu@mMxzAklAthC_k@fv@i`F|h@irA}A_m@}xBylAwQi[b`AakBwv@{_BagA_pAjHusAaeAidBm~IsMaeAcOyq@a~Ane@ayAscAay@g}Ag]cbAxt@eoDiVokAuk@spCmEggCuaDwv@eaByq@aXslCrPomA{N"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 370200,
+                "name": "青岛市",
+                "center": [
+                    120.355173,
+                    36.082982
+                ],
+                "centroid": [
+                    120.150851,
+                    36.451234
+                ],
+                "childrenNum": 10,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 1,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "epr`Vuym~EebBrh@}tBbYmk@xlA{Gf|@mwBhbAqdAsUomA|h@k`DxN}k@pSkvAzsA}Bz^vcCzeChs@zgAsYhv@tUxy@mnAzeAtXftA`eAd_@`_@z|@vv@hFtV_h@xxAgB~kApx@wz@jaA{Gj}@}h@da@wz@aFll@tcAfv@{w@v`BfpA`hA|eBsYxsA`tCzw@yM_f@|xBcu@tVwuCis@_g@lB_kAx_ColAeX}[}BycBtVoh@bbAaMjnLbXvOd[s]`|AzH`u@vw@jShwAqHt|@z|@lEjw@xyAt_@riBvrBod@huBgy@rRmi@hn@e_AfCwPt}@u}@~dAc]f`A~e@tZ~{Do_@dbBdTrtDaf@|j@d{@u_AboA|B`iAt{@lv@jF|u@s]f^amBih@wv@rMlA|tBeW|u@hu@dmAyq@vu@kn@lbDdVvrAuXvhCe~@|Tn@zb@hu@vAod@zg@}E~mAsbA{MeU|n@jn@~o@rfBtPrnCce@vfCviA~sBp[rcAcd@fx@zItYj_Azp@z`@x_CkL{Hwm@zm@uP~e@vr@j{BgUq^vgAr]zb@vbCaGtpD~k@poB{`@nkA`[~nBlwAjo@b|@r\\cMh|At`Alj@eNbcAjc@rfBWkG_o@luBjd@mDpt@~c@nT|k@_n@~kAr`@jo@yEa^_k@p`@wS|oAfWo@qs@hv@_@zp@bz@niA}L{Hfk@`gAkJeXmrAaeAgbAu|@aeB{GqmAs]op@iu@gUkm@unCmrAicCe}@c_A{Fgu@qeAuQbbAalCtgCgtArhBgqBdlCji@tXxe@c^r_Bg|Atm@fQzcAltBaCbbAjh@dY{f@zsAlTxK}cBtcBaEd|@p~@baAcLlk@s|Bd~@g@j_D|n@rjBz}A`uCr_ByL`yDhyAjuA|xBjMkm@prAmD|dAc{Enn@e|@pmA_jAba@ko@|aAmrAjMoeFfAgz@fTlAzmAt_AdQeYfxApdApr@Nld@nyCf`CyxAmOmeEaiC_jAiZit@nbAvw@rt@zn@lrA|Elz@kl@zIsaAo}Bob@nk@{m@eNbY{r@g}AslA{zBlQ}j@ziApfAn|Dx~Bff@bnCNt~@de@p^jiAlrA|c@bdAxfB|nAxl@r]`l@hMtqBrhBr[taByEgP_bB_jAkeAe_AuqBeeBsZfQuv@tqDxaApeA|pB`eA~x@fw@bGnc@mgA}Cx}@|i@xWb`AcGzGlfA`b@hi@ddBhh@npBrH``@u`@tbBdyAzcDdbHvRbtBiq@ri@yq@vhBnf@na@nb@vtAO`x@ne@jIpdAnzDfx@jw@tz@uj@z}Bl]c]{xAjn@e|@baA{HyK_q@d}@u}@bnC{YnkAf_@tXj`Ce{@`u@muBaEeXrYlA|lAxq@vn@xaCbw@lpAziC{GhtAw`Bv~@fPxpArlClZjp@lYbiB`nBvx@lLbgB{qAlj@uHlrA``@jJq}C``@gOnc@fo@pnBtjA{Hze@vz@~\\u_Abf@xNp`Azo@f]ir@viAxzAjc@nd@}u@r`Axn@|k@cFd{@q_AjHguDvdC{E~iApSp~Eb_Dj|BpCraAhBrgBi}@jzBon@pb@nxAhu@|Ixr@a`AxzAfyAvbCcf@nqB`SjGogB~sB}y@lAq_A}h@sg@uVueGfx@aeArY}lAuUoOiOqdBvS{i@{n@{i@yJdm@anBaUw_Bf^_d@dl@s`AlL_iAySolAbf@}oAel@s`AbWwR{x@tjCs}CjsA_c@sYk_Cw~AwP_g@mpAfw@k{@uT}rAu~@iT}h@_nBy~BueAyyAbYahAkHscAswBsiBmLixArbA}i@qUvQms@yzAdL}Ea~@d_A{vDng@aYp^{_Cx{ApUmAs`CpgAewB``@muBsYwlBhq@ciA}}CkdBsbAsbBlqA_dAxs@zLz{B_dAfw@xExmEi\\zGatCmzCky@mBoo@zuA}rB{m@}SzFmh@ccA_iBu~@ksCe_AcOc`A~XmeEpCgy@|QmE~v@ixAx]ovCqw@c`AzMwz@sf@i`CvWo@en@iq@vW{E{h@gy@mOxt@qqBob@khAfy@iFpfAcbCmoA{gA|AmoAgv@iHs[w{Bg|AuuAab@g{@is@GiOyg@ieDw|@c^m~AlE{wAiv@mfC|AogAqa@sPy~BaD_e@d[ww@eXdXu_Av|Ayr@lFccBiu@oCyKam@kuAgvBeYhMiyAmc@{_Dw@iNbXg~Aqp@}D_tA~c@aEfPau@mh@wj@|g@u^oe@kzB|nAb]rmCkeAfPei@x_CpOf}Avr@oAn}AjtAxDfPieDvOsVpvPu}ArrDiaAjsAaRtqDybAxs@ef@j{Bnw@yNgqBbtDafClwBsY`gAmy@|uBem@zbDy}Ahq@ytAtT_jA~f@yPr`AukCvx@{e@jn@w_BnlAgH~f@{o@jvAq[njAwnBrZ_hCyLs{A_g@yn@?kkAqfAqu@}pA`d@uWoQa{DaaI{JibC_AwgGtdBmyDyxAqrFog@mh@q_@snBgy@uW}B|]e{@wSinEtp@}vBd|@s{Eeu@a`@ztAgv@t]oiA_X{m@fI}wB}b@iK}_AymEui@g~AzwAwy@gNugC?qnH|ZyLfPwbCfDudBm~@e~@_LaiAum@{vA~Ns[uj@mrA|c@yu@gGegCzsAqdAnHkwAifColGfLww@tUgeCoLg}A}b@eYdj@amB~J{l@u[lD}o@mh@}t@{n@vJwv@ua@uV|VoiAuXqdAqqBxMisA_g@whBwy@eNkGwgBq`@{yBww@bk@_rBdYsgBmeBelC~DfS`aAw}Azg@a`@rg@cdA}`@q_@bo@lBhkAwy@tYwPxaAwx@kl@sZwcBkm@}X_sBnAu|@ro@sbA~FeX{p@nc@i{@iq@|L_wCsf@}C{b@slCzm@gaBqw@yxAuN}Cso@oiAqw@{Ec`@c`AWu|@bb@mDjh@yyAjq@a_@|`BpeA~`EwT|eC|g@dg@ys@b|@iq@|Pgx@me@oiAnE{sAkhAyKb{@{yBnGko@vpC~jArdAc\\zfAnmAd}@`gA}`A~f@~OxJ|fApa@tYhKrmB~e@v]gQ|v@kp@~QeWdfCaoBv{A_xCvEaa@nV?ffB`zDnu@tdB~LgShbCit@_@kn@vf@xs@pw@yLf]k|Bvc@yN~UrbAlvCpdAnThgDwG_Apn@hs@|fBhzArbAeV`c@{JllBkvAfLyLpd@geCvFmF`i@qeAx~Bb`Arx@uU`ZifDp\\wOjr@okAbr@nf@hLyLffAyzAcf@e~@hPvRrm@qgAbp@vRldClnAVzFxpAzm@z`BkJjrCkcD_y@kG{WixAyIspCgx@dW}r@wx@cf@N}s@alBaRk`Dty@od@|v@{p@wDagAjg@wOdw@og@xJgnKilC"
+                    ],
+                    [
+                        "ks~~Uc`i{EgRmSkn@hx@f`ByFs]a\\"
+                    ],
+                    [
+                        "wzmaVm~f}Ext@}X`nBbWlrAaFjJwf@g_B{T_d@oj@yr@jQoiAr~A"
+                    ],
+                    [
+                        "qspaV}ru}EfaBbRkGok@yxAjX"
+                    ],
+                    [
+                        "mzw`V}mazEqfAaVzrAdv@kKe_@"
+                    ],
+                    [
+                        "gxxyUohgxEuUkWc]bs@jJnm@lh@giA"
+                    ],
+                    [
+                        "sok|UejhyE}qAs`Cys@gQeYlfCyq@j|@r]vs@h|Atl@xxAyTfSkj@eTeqA"
+                    ],
+                    [
+                        "i{c`Vgvd|EyMz`Bvy@ms@}j@kl@"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 370300,
+                "name": "淄博市",
+                "center": [
+                    118.047648,
+                    36.814939
+                ],
+                "centroid": [
+                    118.058672,
+                    36.610968
+                ],
+                "childrenNum": 8,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 2,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "qxnmUmp~~E{n@hOeqDyIqsCxIeX{o@adAqZiL}kAw|AmzAcaAihCqb@qh@{p@rdAzGbk@{xByc@jJuvAt_A{nAxzAnIjGsjAxu@_ClDqu@_f@gYkFurCe|@yfAdWiwBc]oXqsCFgw@gh@wz@~_@ubBwRmCgm@m|C~KyJw_AsbAg~@ccAwG~@wz@u_A_Eu}@or@}EwjA~mAvX~b@wgAzp@fxAmCuvBbZwj@~qBuhAfRuv@kImmAp`@}g@p`FoVdW}o@n@{tAuXuf@b[s_A`vCmOjHmx@}j@c}DtdHe]tqD~Id|@|RtiCvD|pA}V`sCNrtD}ZbvDabA||C}e@bcAgBplBdb@dbBeY|k@{bCww@}ZxNkf@biBuRne@alCsnCu[ojAiv@qb@yy@oe@}oEcjBg{@aiAa_BgS_wB{uAesBw}Aor@cfBzWalBzlAobFnt@o}DzXmrA?ys@kVodFuiDkzBqh@_lAf@yeD|y@ccA|aAy`CePkgEw_B{m@rkAjJhe@chB}z@ifDty@_@rrAob@|Of_B~o@|k@dhC}j@uLuT~r@u}@uMcfBb_@iu@ePgPuhAiyAlFgz@r[{IfbAucBc[e}@jd@eWr}Aq^|SpfApp@gQxl@njAxo@xNnfAq_@~fAizAjtBbdAt]`fAx{@phA^}Aro@ccAl[oe@pbAcoCsw@}{CePs\\kd@yyApz@ab@hrA_@plAi`CNmC|m@li@|Q}Bdo@~hAvO~@jeA``@tk@a`@jeA~@lu@{wAda@zI|iAu|@GlAlh@{fEfYiM|_AyyAfY}nAwWgv@eo@eVebAokAoBuTchBqhAn@gv@eXqkBdi@wPvXwQxbDqnBwFu|@oUiM|{@{yBfX{p@uuAkiEf@gQfRlEbaCg~AfC{Gvh@a_FvDepDoSigDvUhK~~@cZ~i@|j@naAzo@Glj@fv@yq@f[n@veCnc@nMniA``Bi|AnFmE`n@h_Cvd@mEio@zn@gStVp|BxyAwDq_@`_AxKjrBhwAxj@b\\xf@|bEx^jnFfnCtqDgOtTav@raAxTt{@_HmAnsCnsBnDzp@jw@s[tkAir@js@zl@hUloAqWt|@kq@j|Bh`@ng@bt@u|@x_@t}@f}AsaA~@mi@rh@biBaT`gAvoAlCfoAscAWgTdq@fw@yV``@h~AtdBt|@mj@vHir@beBjwAtw@pdAxoAfx@ra@fTfaAeVza@o@lgBwQwA{p@d}AslCdi@mk@nm@rbAdc@gQjpAfS`{@{o@de@pa@nl@wSzfAksAjbAeWzdAnf@t_@ab@trBrYhLtXbfBwQve@snC{RmFrx@ddBflAsZpoAudBxsAmh@ncAlDxf@iq@nd@_|DxIvw@piAmpA~\\a^dxA_g@rOp`@tu@{m@pi@tW`gAkGxcAhq@~wAyr@bPa}EowAamBp}AafAtRmi@xe@b[feEzn@nY}qAjqDizAtgAwQ~cCfRr}@saAnZucBaa@_jA^oe@os@u~@vs@a`@wq@}|C`v@s\\p\\|pAnr@c^d{A~c@jc@eUrb@jIlrBueB|f@scAol@yu@|f@vR`[yu@faAmAt|@~b@llBvy@_VtXra@jwAsH|pAcb@~e@ps@}h@v~@s`Avj@ab@v_Ane@vh@moAlmA_c@~_AvQvS|aEbIpgAbr@rrDgiBf_BybCdoD~Rr\\dmAveC`Yjp@xwAhq@`D~xCdy@nd@qYbaAzJt}@jfA~jArHnjApm@`hAlP|Ac^`eAcHfw@ik@lBct@raAaBtaBan@vP{t@|qAg{@_lAy[ht@mcD|vBkjAnjGoh@fQoi@rpCpA|qAdc@vPd{@vv@lN~c@ka@xNzt@vw@Wzo@ddBrgBfh@vz@rjAo@|x@d}@td@zJf}@xjE`GdXst@yq@s|AfcCjG`lBbjAlj@mN|DaaAfv@__A_A{~A}qAFjm@_aCmg@aEvQuvCzvAm{@wQkw@mpAsGlj@sx@cZs{@mj@_AmDis@jm@u~@lh@zd@xs@Vb`AwaBgPgm@~hA}~AiLgp@zm@ojAaeAsaA~b@wr@vw@wAmoA}~BzFur@}j@uP}i@jk@g_BkfAg_B|Uys@q_Ab[q_AuVopCyr@_wAxMyd@bvDqb@rcAzL~c@qb@cZye@xt@ygBiMcnAng@m[{Fyj@{uAe{@mAyi@~rB_hAlnAhDfx@xmA{IszBr]qi@hr@by@xM{uAnkAmaBhr@cRdY}qC|~Ce]vOky@_f@kbBt_AG`a@fj@`oBbWvPam@t}@l`@lh@oj@puCkXko@gn@ng@gf@it@{aAbiBiv@yu@ec@jIkhAnmAyLjl@}g@uaBe^{uA~A_A{Tf}A{gAxr@wEfRuwAv`Bgm@fQsnAxdDgv@kJme@saAeg@it@hQht@{|Ais@uj@`kB~Ezl@ca@yyAwDkH{b@is@fEmAciBli@un@eVkk@fSey@rcAwGvPovA_e@ypByxAsd@yMkh@"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 370400,
+                "name": "枣庄市",
+                "center": [
+                    117.557964,
+                    34.856424
+                ],
+                "centroid": [
+                    117.39817,
+                    34.916234
+                ],
+                "childrenNum": 6,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 3,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "ceokUe|_rE{HynAq^cClEkcBu}@cf@gQ_oAhr@c^nsBh@zl@`d@vOuuAlk@}vAlnAqSyMuq@r`Aky@bhB{f@_f@i}A`eAi]{Jie@f`B{uAnd@lNj`D{Czl@ybA`nBr^pgAmt@p`@geB~lAbDpeAy_BveCi{BrbAqSdXb_@zvA_Re_AyiBkn@mEyxAccBbjB_mAxaC{a@dcBekAzHen@lqAwy@r]yyFrbAwH}D}mAzn@_zBhaCzNfv@|y@~lAw]fRnTriBfJyM}n@b^o^x`C}[toDpVvw@kM|qAy}@phAmcB~kAat@qfAsmByNqjB``@_~@xyA_j@bvDyxBlk@ynAjyBfIlC{Zk{Bke@~jA{eBmC_u@z_DpMxyAwkArfBa|Bnf@atCzo@eRr\\mv@iN_eArZch@weC}j@gcCraBokAaXc`Ai_BegCio@of@`rAgw@~U_jAwTomAb~@qsCe_@{n@{}@kaDc`AmuBoiBiwAyf@oxCsQ_jAgVgkDfn@_jA{EosBgy@cuD}FauCmdAekCaZac@}cAubByf@qmHlU|j@sbDejC{i@ab@s^gaB`Yq`@ly@gQqdBpa@i`Agz@}n@qwDb_@_jAmSwxF~iAuXb^yMxoBmqAly@ml@hkAmpAzPe_AxjAzGl|AkzBtTmmA~a@{wAnhB_lAdj@{yBgIkFtdBy~BhlCkn@xAixAek@{rAhXiNxeAc]xAgy@jiBeXlHosB|aCglDb~Boe@d~AkyBtiAsgBn`@kwAbp@fQxbC{eEy@is@xu@lh@tz@d}@f_@jH~pD|j@deAc]n}@d{@r`AxOdoAjo@tG~b@btAoe@`rAs`Aj`AiwAfwB}pAtPs`AjfBe_Azu@{gExoAis@h_@p^n|BvcCxy@mh@`g@mBpwAw|AthA}`E|t@lB~wB~f@hkA{Hb`Bog@l`@~d@fqC~f@|NzrAl}E~jAma@yMtvAxMzjAs]lVlk@xdFwRh}C|EpeAqb@drAyNneB`eAa@bfBk~@l}CaZpjHeiAddBcLxNfnBxt@vtAhxAf{AnjA~q@b^oW|nAxr@jyBcKlg@htAbcAlxAtkCkBxs@uv@jsAcSvz@vp@||Co`@jzBO~c@lf@lCeaBr[gWrfBnGzvAofClqAs~@{FmUlnAm_@hMshAh`Cy|@zFykCt~@ga@"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 370500,
+                "name": "东营市",
+                "center": [
+                    118.66471,
+                    37.434564
+                ],
+                "centroid": [
+                    118.625299,
+                    37.636119
+                ],
+                "childrenNum": 5,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 4,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "q~puU}_ubFpvb@jaAbzEp^lqGfu@|tH|iD~sB|fArtD|iAxr@jwAdUhgBhs@~`ApdAwFtVncA~hArj@mBxo@agAtVwTc\\sZ|yA{|Br`@|h@||DkGzjCfSb|@d{@wDzG|b@dhCtg@n@|UhbClVlxBea@`dAd_@lvB?dVbiAiNz}@hzAdQoAp|Ak_D~GshBd\\b]dw@mh@dk@|uBoPb^|^ixAfXdeBfDt~@}d@jIr_C{m@fOxM|gAwSttB~d@fr@rhB~HraAgQxN_b@vdCfEmBml@hhDoa@vx@lgAdpDnS`_FwDzGwh@f~AgCmEcaCfQgRjiEg@zp@tuAzyBgXhM}{@t|@nUpnBvFvQybDvPwXkFez@_qBe`AiKes@eaBel@jGsbAmpAun@}DwqB`b@k{@_d@yiAlBsx@cdAnGrdAsdCkp@_D`a@{o@mj@iq@yt@~Aq`@ix@c^tIscAcm@gQibCmk@uOdYunAli@yf@|Bgx@phAkXplBcoCuVu`Au|@_Diq@svA{l@NtUa~Afz@Oaa@ic@d|@wEfRqf@lpAO?_q@rfBeJ}Am{@nf@nBb[}u@_@{jFtnDNs[_e@p`@qYloAbPpgAqYtTu{AlnAjN|Alv@blCOb]sUlEutAh|AjPb_G~zBb]}IzFwpA|qAtDne@es@it@}p@qkBzPzFk{@aa@st@jIkt@jvAafCjuA{SvcCdKuUweBmi@kQnmAqZ{n@ujBiq@kQ|B{q@}k@w]|CoaAa_@GhOoy@ac@kLys@kgAod@^wPav@{rAao@wPe_AfQkg@leErl@ll@sLq^qoAjp@NdVsi@ml@qiAkuAgXhKuc@ir@ua@yN{{AxNao@yt@qOyKcvAmj@lBs[ssAoqBwXq_@kb@mi@jc@_qBcL{tAfo@}j@cNyyAnVqrCom@it@gq@}Dus@cdAu[|Bon@ahAmqCgStFxJu_B{{B}EsZijBqhAwT|B}p@nlAac@No`A{o@aeBksAkGtz@yiCeX_h@pfAuVkFko@~hAn@_d@_d@njAaiDx{AlVpgAiu@v~AdrArfBtVpfAxv@^{aAr`AshB}EbtAd{@{`AxNuaB}g@ydAjo@m{@vOijBlk@uDkGsdBxLacAvx@jFhKud@e}@kZhOmmCiu@cWne@uyAm_c@{|C_kAlC|BskDfy@_@bsb@f_BgR}tBdXwmCiu@eTu~@e~BrYcv@zsAok@yt@qg@gx@yrBssDzb@k_JjsAawDpXk|BjEcbAcT}pA~MeeBzsAadArE_qBmoBahA_NegCjTgdChy@iu@xx@eWzdBwx@piBir@vo@aoB~o@}pAi[kgEktBof@wjCeWelDooByx@ysRqbBy_I}OwqEeCagGlOqsCt`@_~D|~@cqCfiAihDlkBg`BzbBaeAhgEaeArkHiq@vfCu}FfyCewK|_He}@|vCiMv}Daa@z`AzId_Ali@ff@{IpiAmi@~pA{bDrp@{_DqO_xCwg@moAp`@yMffB~b@nuCkFpf@e}@n_A}vHftAeVpz@fSjlAv`B~|AloAfWtjClFtmD{IdoJ{d@~_ElFxgDfn@xjEjkBviDjgCrnC|xCnzCfmFh_ChoF~jA|sDwS~wDw~A|hGy{A`{HsYhjCq_@zWiaCi`@wy@tl@vQh`@nvCh^dY~c@qa@~}BixAv`Cww@pa@axDtu@"
+                    ],
+                    [
+                        "o}uqU_hggFxLdhDl_c@z|CeYweFcsb@g_B"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 370600,
+                "name": "烟台市",
+                "center": [
+                    121.391382,
+                    37.539297
+                ],
+                "centroid": [
+                    120.805129,
+                    37.241857
+                ],
+                "childrenNum": 12,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 5,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "exyxUgnraFuiI_zA_rHebBko@tJ}C~jAagA|hBw_Hsr@wx@gkAsiBgpAwy@e{Au}@g|@qkBgfAywA{rC{p@kb@syEqr@_jAqg@wv@}hAxgD}GiKgv@}aEmGuUkgAxs@_t@{JqyAnc@qlAhu@}L``@op@deBq_@b^kdAt|@ac@c[aqBvQc|@sYab@ufOk}@e_Aoh@_mA{eD_cFgb@kcDwjBweIue@gdC_dBukCw_@q}EefAmxHeaEc^{gAsmCir@ktAm~AsbAat@hpFegEwy@s}Ajm@_pAs]oZwpEaPsiBe^mh@wp@{F{vArYon@~xC|CphAwZnmA{|@bYazAadAyj@uiUnAyeD}\\opBs{@i`IuqEe~@yqAquCqQs_AhOq`FtZe|@ah@gbIgVg_Bwh@kcDypComAia@smCvSg|Me|Fe|@|AcdAsZis@dn@ubBkF_tBnTizA`b@wbC|A{gE{eA}|C?e~@~x@yyAeAmh@|XiwAqNcaA`w@kGj{A|g@z_@iM|o@gz@bu@slCtyA{|BvSi~B~jBuTvaAopBbmAqkBxPgz@sGuVmq@mk@fm@iaCu]}nGgAiu@fTcdAznA}A~o@jvAd}BdTzlB{uAfWa_@`dApgAlkBlB|w@k}BjwBmnArf@woEzdAc|EjKsnIsJmvHoqAmi@g\\vSq`BjvAqeAc^qm@}mAdE}oAda@qeA|Dm{CjqB}~Cfu@wPv[nmA|`@dcB}AvcCec@dW|b@u}@|Ga_@lgEafAl~@auCdg@cqCfsBvRv{BuV`v@otB`uBa~EzpAcjBwBa_@feAunDvbA_f@uEc[kuBs`Aej@omAkO{zBejAyyAeeAi~BV_g@tc@qa@xtAi`Old@m|C|DszK_^_oH|GqbFcRaa@lkAOle@vw@zyCjIjx@t_AtzBhq@z{@`oBrz@~jA~nAp^`hEnc@vm@l}CjcAphAnxA|j@bUh~BsSrYjYkJbdAjo@j|B~f@np@fTrkApmBnBvw@`e@mAnqBmk@dP|E~s@mk@id@km@dfCfy@zX}DtrA`fA|Ms[tWmk@ca@}i@pj@j}B~zEd}@oAdV`aAtwE_A``@u~AbaAgCqa@ps@|h@|L{Grr@nb@nGfv@xcAhNq~@nlAwEhyAq}@lEsn@d}@vHtTzd@|qAzd@pgAe~Ad|@}Rp`@viAc^tVjFxhAfv@h}@p`@}ShhDd_@pmHfBvsEueBpnBmN~c@dMhxAr}Bp_FtNhu@ouA~c@uV|j@l^nqBmcBokAeMpa@adAt|@|Y|k@`w@xwAgCvv@c_@tWqr@zm@wD~sBbd@jcD|oBv}A~~AfSp`AxqFhqAloAjj@{En{Bb[jcAmBbeA_g@tOlAto@|qA|SdVjlAc]lx@{p@oK_tB|dAkuA_GuTj`B{l@lwAi{AfSuXl`BcaA|iAgw@_Hc`Afw@weCf@cYfqAs[vEuwE_fBmrAwDab@vnBzIve@y_Cn|BveCnb@ng@nn@^xgAc[pdAahAfCgSx~@{|B|dD|Dhz@}qA`Yir@_OilEvOokAh_@uaBzvAplBjs@~f@b~@rcGpY~rBj~@tUrx@{uAfM_e@lhAr]d_ApdAx`@zyBwCfx@}gAjo@gIvuFtcAjyBg@lqAhNraAbl@rnCbdC~mAxQnqBiQzaDjoBnoBqHv_B`Uv~AfcAzgEjrB``FhxAtjCj|At_AxpAtdB|f@|oAqHpxJqGhgDstAdYmk@{G{hBz|Bg{@bbA~FlpAs]byE|s@wQrf@fnKhlCng@yJvOew@`gAkg@zp@vDnd@}v@j`Duy@`lB`RO|s@vx@bf@eW|r@rpCfx@hxAxIjGzWjcD~x@jJkrC{m@{`B{FypAmnAWwRmdCpgAcp@wRsm@d~@iPxzAbf@xLgfAof@iLnkAcr@vOkr@hfDq\\tUaZc`Asx@peAy~BlFai@feCwFxLqd@jvAgLzJmlBdVac@izAsbAis@}fB~@qn@igDvGqdAoTsbAmvCxN_Vj|Bwc@xLg]ys@qw@jn@wf@ht@^fSibCudB_MazDou@?gfB`a@oV~wCwE`oBw{AdWefCjp@_RfQ}v@_f@w]iKsmBqa@uYyJ}fA_g@_PagA|`AomAe}@b\\{fA_kAsdAjo@wpCzyBoGxKc{@zsAjhAniAoEfx@le@hq@}Pxs@c|@}g@eg@vT}eCqeA_aE`_@}`BxyAkq@lDkh@t|@cb@b`AVzEb`@niApw@|Cro@xxAtNfaBpw@rlC{m@|Czb@~vCrf@hq@}Loc@h{@dXzp@rbA_Gt|@so@~rBoAjm@|XrZvcBvx@jl@vPyaAvy@uYmBikAp_@co@bdA|`@``@sg@v}A{g@gSaaAdlC_ErgBleB~qBeYvw@ck@p`@zyBjGvgBvy@dN~f@vhByMhsApdApqBniAtXtV}Vvv@ta@zn@wJlh@|t@mD|o@zl@t[`mB_KdYej@f}A|b@feCnLvw@uUnlGgLjwAhfCpdAoHdgC{sAxu@fGlrA}c@r[tj@zvA_O`iAtm@d~@~KtdBl~@vbCgDxLgPpnH}ZtgC?vy@fNf~A{wAxmEti@hK|_A|wB|b@zm@gIniA~Wfv@u]``@{tAr{Edu@|vBe|@hnEup@d{@vS|B}]fy@tWgTi}Blk@ef@niGgpBtVarAsfBgaBzm@anA{o@gjD"
+                    ],
+                    [
+                        "{csdVinedFjHgZmqAqr@of@jOnoBl}@"
+                    ],
+                    [
+                        "cwz_Vq_nfFhOc\\dY_PmBwwAu_AwOa`@sj@iu@dVqgAphC{l@|g@nf@pdAoc@l`BbZ`b@zm@{YnjAyuA|qAeC~d@io@}h@ei@"
+                    ],
+                    [
+                        "qvs_V_vyfF|i@ym@qgAuV}tBxo@iu@W_e@`rAoc@vQtXj{@zaDg`@t~@cl@dWk|@"
+                    ],
+                    [
+                        "g`l_Vc~xfFab@h[b\\|fAd|@}Cgv@k~A"
+                    ],
+                    [
+                        "s{d~UkvoeFxt@kLxs@s`BamBcJu~@pMbbAnjB"
+                    ],
+                    [
+                        "kzq_V}znfFvx@mDoc@yp@lDym@ixAiMb^r`Bp^vQ"
+                    ],
+                    [
+                        "yb_`VkfzgF~lAifA^cpAc[{vCq^qV_e@tm@mh@vsBqkBhXe{@vuAdbBfLrcAuPd|@xw@"
+                    ],
+                    [
+                        "q}_aV}g`iFnkAe\\peAasAs\\eu@i|AqH|Djv@}j@xH|i@~r@c\\xz@"
+                    ],
+                    [
+                        "kyp`V{l~hFkHo}BkvAlnAv_B`n@"
+                    ],
+                    [
+                        "}zf_VehrfFffCicAlh@_vAuVap@ojAud@oqB~a@jH`gDrZ|e@"
+                    ],
+                    [
+                        "y||`V{lgiFb]s\\qjBq_BudBzaANzv@d|@sQltB`U"
+                    ],
+                    [
+                        "aei`VgjthFp_@oYqfAurCiq@oe@_tBoKizAx{@li@`|@|vBlOhs@tx@|qAd\\"
+                    ],
+                    [
+                        "_zdaVmw`gFpdAqj@zG}s@sfBnQgSfq@ll@xZ"
+                    ],
+                    [
+                        "urizU_}ubFxNom@}j@tGb[xd@"
+                    ],
+                    [
+                        "ev{cVghj|EgPga@q_@jo@zp@cM"
+                    ],
+                    [
+                        "ksj_VatvgFhq@wk@wRaw@_g@{G_g@dq@jp@nz@"
+                    ],
+                    [
+                        "k_x`VocbgFzGtu@dXky@aa@tB"
+                    ],
+                    [
+                        "{pj_VyrggFbY{e@eUus@ml@lBmCf~@zl@zW"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 370700,
+                "name": "潍坊市",
+                "center": [
+                    119.107078,
+                    36.70925
+                ],
+                "centroid": [
+                    119.077723,
+                    36.554349
+                ],
+                "childrenNum": 12,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 6,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "idarUg|n`Fwx@mgAihDna@lBll@wdCgEyN~a@saAfQshB_I_e@gr@vSutByM}gAzm@gOkIs_Cu~@|d@eeBgDhxAgXc^}^}uBnPlh@ek@c]ew@rhBe\\j_D_HnAq|AizAeQhN{}@eVciAmvB?adAe_@mxBda@ibCmVo@}UehCug@{G}b@e{@vDgSc|@jG{jC}h@}|Dz|Bs`@rZ}yAvTb\\`gAuVlByo@_iAsj@uVocAqdAvFis@_aAeUigByr@kwAstD}iA_tB}fA}tH}iDmqGgu@czEq^qvb@kaAaa@pa@}h@`iCyKzgC}nAbqAqlB|M}i@opBsiBeP{zB`a@_e@ws@mFmtBeUae@_tB?ojA|z@vSjYvv@yi@v|A|IlEvhB|pAvfDit@j[ocLypHit@pi@dgCpuA}Dj`@c`AfAyKpm@t~@pxChMruC{rA|SzFsaBwP{pAw}AmJsaA|RqhA~_AshBlTy`CsZiwA`m@yK`o@|i@hzBo@doAq`@rd@yLddBwv@rc@_kAldBgx@|\\mnAgIgw@sa@yxAuRcuJvBk|Bs`@{rGuUo@kp@bcA_dAgP}MqfAfkA?x~@u|@z^udBuKycJdPzo@fjD{m@`nArfBfaBuV`rAoiGfpBmk@df@fTh}Bp_@rnBng@lh@xxAprFudBlyD~@vgGzJhbC`{D`aItWnQ|pAad@pfApu@?jkA~f@xn@xLr{AsZ~gCojAvnBkvAp[_g@zo@olAfHkn@v_Bwx@ze@s`AtkC_g@xPuT~iAiq@xtA{bDx}A}uBdm@agAly@mwBrYctD`fCxNfqBk{Bow@ys@df@uqDxbAksA`RsrDhaAqvPt}AwOrVgPheDktAyDnAo}Ag}Awr@y_CqOgPdi@smCjeA}nAc]ne@jzB}g@t^lh@vj@gP`u@_d@`E|D~sAf~App@hNcXz_Dv@hyAlc@dYiMjuAfvBxK`m@hu@nCmFbcBw|Axr@eXt_Avw@dX~d@e[x~B`Dpa@rP}AngAhv@lfCmEzwAb^l~AheDv|@hOxg@hs@F`b@f{@f|AtuAr[v{Bfv@hH}AloAloAzgAqfAbbCgy@hFnb@jhAyt@pqBfy@lOzEzh@hq@wWn@dn@h`CwWvz@rf@b`A{MnvCpw@hxAy]lE_w@fy@}QleEqCb`A_Yd_AbOt~@jsCbcA~hB{Flh@zm@|S{uA|rBlBno@lzCjy@{G`tCymEh\\gw@yE{{B~cAys@{LmqA~cArbArbB|}CjdBiq@biArYvlBa`@luBqgAdwBlAr`Cy{AqUq^z_Cog@`Ye_AzvD|E`~@xzAeLwQls@|i@pUhxAsbAriBlLrcArwB`hAjHxyAcYx~BteA|h@~mBt~@hTtT|rAgw@j{@~f@lpAv~AvPrYj_CksA~b@ujCr}CvRzx@r`AcW|oAdl@nlAcf@~hAxSr`AmL~c@el@v_Bg^`nB`UxJem@fdCwfCdcBeMjHqiBu}@mn@vSmaAbcAs|@pmBov@fw@yA`fAl^rfBdKpzDj~Ajl@vq@hzA|p@|j@Wq_@gzGjIuuAhwAg}AmqAa_BbbAmrCv}Ay{@pwD~e@pnBea@dVmqB~lA`FrbG`aD`qCr\\jdDNfeCg_Bjl@hAtU|iAblCs`Aww@ufA}j@qEaoBehA{tAsHdXim@gSw`FdX{u@`rCb`@jJ}`@|tBdOnmAtc@xlEwAd~@hW~jAk\\~d@ywAht@eLn`E|P`a@srBgy@yn@jFyn@d{@uLeUoaAog@eMqfAfU_lA{KeYkpAphA{^yLsmAmk@odA{uAqs@gTeh@~oBgdAt_AbMnpBsuAng@ja@lrAiCphAtk@nrB}f@n@cd@`gAhBdW}l@`fAoq@lj@je@z|BzIs[jd@~lAdyAdgC|O`b@fYb^uk@f_Bc|@aa@ilA~b@qEzJe~Aab@iy@`b@wWkHcvBp_@ep@zp@{JxK_nAeYgWzIsaA`eAgWhfDnZlj@wXdeBp`@|wBgx@haC`|Aab@~t@fy@vlBxr@yFlBb|AuTp`@b`Aha@`fAasAbcAfXxNbd@fdCen@uTsg@jp@ugAfz@pFloAeo@fv@_AvTjd@~sBke@dbB~oA~vCvnAt{@a^hr@hy@mEhiBxq@iDv}Abd@~c@lg@z}B`u@pa@q\\p_@`v@ehC`FgPlbA|g@zw@f}Aj|@rcAnl@teB}f@kImrBdUsb@_d@kc@b^e{A}pAor@r\\q\\||Cav@``@vq@t~@ws@ne@ns@~iA_@tcB`a@raAoZgRs}@vQ_dChzAugA|qAkqD{n@oYc[geEli@ye@`fAuR`mBq}A`}EnwAxr@cPiq@_xAjGycAuWagAzm@qi@q`@uu@~f@sO`^exAlpA_]ww@qiA~{DyIhq@od@mDyf@lh@ocAtdBysArZqoAedBglAlFsx@rnCzRvQwe@uXcfBsYiL`b@urBof@u_@dW{dAjsAkbAvS{fAqa@ol@zo@ee@gSa{@fQkpAsbAec@lk@om@rlCei@zp@e}AvQvAn@mgBdV{a@gTgaAgx@sa@qdAyoAkwAuw@hr@ceBlj@wHudBu|@a`@i~Agw@xVfTeq@rcAVmCgoAagAwoAciB`Tli@sh@raA_Au}@g}At|@y_@og@ct@k|Bi`@u|@jq@moApW{l@iUhr@ks@r[ukA{p@kw@osBoDlAosCu{@~GsaAyTuT`v@uqDfOknFgnC}bEy^c\\yf@iwAyj@yKkrBp_@a_AyyAvDuVq|B{n@fSlEho@i_Cwd@lEan@h|AoFoiAa`Boc@oMo@weCxq@g[mj@gv@{o@F}j@oaAbZ_j@iK__AhgDwU"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 370800,
+                "name": "济宁市",
+                "center": [
+                    116.587245,
+                    35.415393
+                ],
+                "centroid": [
+                    116.74105,
+                    35.371092
+                ],
+                "childrenNum": 11,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 7,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "ceokUe|_rEbvDqxAp^|g@jvAzBnsBfdA{n@tx@`hA}UhhDhfAyu@l^lBlo@bjBnr@`kBh@km@hnA~b@xs@c\\vq@f}Are@ir@nkBdWbm@jn@}UdV}~@d{@~p@olAjd@}Cv`Azp@pcA|qAkT~kAfWn@l]tgCxXlCjk@voE_@~e@grBfSwlDraAaoCne@guB}C{aBsaAo_CtUwcAhwAyaBd|@isBxs@sqCpeAcaCjq@~GxxAjy@ht@uDraAosB|BkoBu_AmrBa`@kMxr@whA{G}`@fy@g_A`oBkmAfdCylCzbD|Dnd@{i@`eAnHjIwn@vv@yIxKojAxwAiz@|AccBi_CeG{m@gR|pAowDlgF~H{F}gBoe@{`@w}AzC}}CmYd}@ck@vfCmFOvQroCzM_@koCrpCq~@bnC_p@noB}aB``F{D~e@_`Flk@aUgTn~Fxr@iA^ueGhzAu\\?p~Azm@aLeWdzAqfAvRmCp`@raAoI~b@dtC~xCsDbaAvIlCq_@lzCi_@xwA}o@vx@tFluBgg@hMtd@`kBy@lBtZpnBiUhr@_r@fy@jCxt@|jBboI`sAjvAOboC`a@z}BqLxLh^zzBhV|zCgSbbAp_@o@hi@vx@bb@jcD~zDp_FwlAduEgIztAop@hfDmP~kAcWx~BobBxtFgxA|pAeGnkAgh@vw@wxBn|DuZ|j@yU}i@y_Agz@ak@lCo}@~`Es`C`uCm{DjFaxAc]usAuhCoIlF__@ktAyoDloAiM}qAemCwjDdHsoCeqEe{@c}@ww@emBzIut@xu@_|Ag~ApMoe@gb@Nsr@kuA|mAiaCzZw}AwrEkGamBtbB_iDtVmIdrDf|@jtAdGjp@}_EdcBotAne@qjEyr@un@{rAua@od@ep@wOypAzp@{fCfSs`BwSobA|AscB`dAWxMqiCs\\sm@d~@vMhs@wZ?qz@r`AvdAmDxaBbbAuJbdAr`@eXqyCbcAnKx~Bkb@|C{xAzm@ur@sYopBhLmxCxq@w`D|DscAsbAc`A?kd@vv@ynA~@uhAorBy|B|i@acAnb@g|CntBwnAlqAejAd}@wpAhv@kh@pwDs{AhzAuaBfy@ch@rfHy`D~yCk|@`qC{k@eW_b@zvAsj@ztAxg@hzAoQng@amAxJgyA}CegEOup@mi@c]mA_`Boc@mLbZegAnlAo@gPsbAikEwh@iLuv@tUg{@qa@{{Ag}Gio@wjDee@i|Ao@a`Fnh@_nAeO{JsgAqeAbs@uTlv@b^bs@`hArr@e_AtiAkuAiWkJvmA_kAhY`_@tw@scAvx@wpEzuAcgB{[qfAf{@}i@{xAoc@aY_rBpXc\\rp@_pBlb@mh@oPeVp|@iOapAmoAjZvRnjDwRp{@_iA|iBsYlaA_zC~|ByN_SieDzk@|h@bWs[jrB{m@~Qy~BusAmi@ax@}uByV}k@r[g}AiC{n@}^g~Ark@i~Be\\{m@~Pyr@}bAsmCot@NqlAyr@mp@{o@~PqdAuq@i_C}L{o@zIa`@}dAc\\|a@sdAv@{rAs_A}k@wnEgw@}s@qxDmc@uWkdA}tB_vBe{@_TmkFcIscAbzAr[rZ`a@pnClxBrsAroChh@fz@~kAiLz`AauCpqBg_Bds@{}Bpf@u|@dr@mCrbBbhBncFzo@hSjaDwc@bjB|m@b^dm@xNleFeUtk@oiAqBwdCwn@ecBqSasCwq@u~@bWmg@tmAeqD~]wx@_@??{yBm\\{l@t\\{l@fnA_oBhu@wz@sXog@kzBc`A`DkHxr@{sAyA}{CnqBqkBcg@kGieAueB__@mnAtJyr@kf@olAqR}AkYosBeLa`@ySxNgrBne@{i@oe@ihAehCcZ}uB_qEhKqiA_pBkIakBlr@smC}JwcCdcA}oA_vAksAbI_d@plAenDpVmh@nRxKnt@zm@t]}j@fOiq@sZk}BqSafAo_@m|C|^qnBaTwv@d[goEfQ}gFalBwv@u_AoiAl^elCn@yM`y@mj@rHkwAbmAyzAwa@aiA~t@oxCgq@w`BxwAgw@neB_nAdM{`Db{@e}@hgAyNnqA{zBe[k{B~_@t_Ajz@iv@d{AebHdkEyaCnzBhq@`aAvS|`D}k@tYxM|cBgRbe@`dAdrAboInj@zsA}Vf`B^fSxo@{p@~eA_kAfZuUhm@~e@h`@~jAdIfSp|@bgB_]fy@mg@b^fLr\\pxAb`Arn@d~@rbCjtAlaA}|CjdByK~kBqgAhi@{l@vjBpfA~`AmBf{AnvCtbB|B`bA{p@psBmj@|_@}zCpaAtaBbgD`rCz^h~Bhs@lqAmy@xMyoBtXc^vxF_jA~iAlSpwDc_@fz@|n@qa@h`AfQpdBp`@my@faBaY`b@r^djCzi@}j@rbDpmHmUtbBxf@`c@|cAdkC`Z`uCldAbuD|FnsBfy@~iAzEfkDgn@~iAfVnxCrQhwAxf@luBniBjaDb`Azn@z}@psCd_@nmAc~@~iAvTfw@_Vnf@arAdgCho@b`Ah_BnkA`XfcCsaBveC|j@sZbh@hN~dAs\\lv@{o@dRof@`tCsfB`|ByyAvkA{_DqMlC~t@_kAzeBj{Bje@mCzZkyBgImk@xnAcvDxxByyA~i@a`@~}@xNpjBpfArmB_lA`t@qhAlcB}qAx}@ww@jMuoDqVy`C|[c^n^xM|n@siBgJgRoT_mAv]gv@}y@iaC{N{n@~yB|D|mAsbAvHs]xyFmqAvy@{Hdn@ecBdkAyaCza@cjB~lAxxAbcBjn@lEd_AxiB{vA~QeXc_@sbApSweCh{BqeAx_B_mAcDq`@feBqgAlt@anBs^{l@xbAk`DzCod@mNg`BzuAzJhe@aeAh]~e@h}AchBzf@s`Ajy@xMtq@mnApSmk@|vAwOtuA{l@ad@osBi@ir@b^fQ~nAt}@bf@mEjcBp^bCzHxnA"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 370900,
+                "name": "泰安市",
+                "center": [
+                    117.129063,
+                    36.194968
+                ],
+                "centroid": [
+                    117.030947,
+                    36.002333
+                ],
+                "childrenNum": 6,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 8,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "}cwlUianxExaCozBdbHekEhv@e{Au_Akz@j{B_`@zzBd[xNoqAd}@igAz`Dc{@~mAeMfw@oeBv`BywAnxCfq@`iA_u@xzAva@jwAcmAlj@sHxMay@dlCo@niAm^vv@t_A|gF`lBfoEgQvv@e[pnB`Tl|C}^`fAn_@j}BpShq@rZ|j@gO{m@u]yKot@lh@oRdnDqV~c@qlAjsAcI|oA~uAvcCecArmC|J`kBmr@~oBjIiKpiA|uB~pEdhCbZne@hhAoe@zi@yNfrB``@xSnsBdL|AjYnlApRxr@jf@lnAuJteB~^jGheApkBbg@|{CoqBzsAxAjHyr@b`AaDng@jzBvz@rX~nBiu@zl@gnAzl@u\\zyBl\\??vx@^dqD_^lg@umAt~@cW`sCvq@dcBpSvdCvn@niApBdUuk@yNmeFc^em@cjB}m@kaDvc@{o@iSchBocFlCsbBt|@er@z}Bqf@f_Bes@`uCqqBhL{`Agz@_lAsoCih@mxBssAaa@qnCs[sZrcAczAlkFbId{@~S|tB~uBtWjdApxDlc@fw@|s@|k@vnEzrAr_ArdAw@b\\}a@``@|dAzo@{Ih_C|LpdAtq@zo@_Qxr@lp@OplArmCnt@xr@|bAzm@_Qh~Bd\\f~Ask@zn@|^f}AhC|k@s[|uBxVli@`x@x~BtsAzm@_Rr[krB}h@cWheD{k@xN~R~yC_}BrYmaA~hA}iBvRq{@wRojDloAkZhO`pAdVq|@lh@nP~oBmb@b\\sp@~qBqXnc@`Y|i@zxApfAg{@bgBz[vpE{uArcAwx@a_@uw@~jAiYjJwmAjuAhWd_AuiAahAsr@c^cs@tTmv@peAcs@iKojBe_AcyDsbAdPoc@{eBfTgxAcdAwyAs[}oBa_@}OiNg{ByzAk}@u|@{xAu{Fk{@OkmCq^kNmoGhHmpAoWy_C|vCi{AbfDe_AhoAkIncB~d@`yBmC|cCeUbx@soCrlA}g@v@uTq}Aqb@ed@iyAkK{uA{c@kvA}aA{m@evAieD{d@aeA|e@wQ|`Ays@rd@oqBpBqa@nn@tVfm@_h@zc@zHpp@y{Aku@wO_bAmvB}g@ylE_@eoDsz@cdAalAgSezAiq@uj@okAqBiLs}@|i@}PdU_kAv_Bcc@pnBvYgSk}@vu@nXnmAOwQek@ahAav@uXudAv`Bot@xr@mbBz|BoYfy@gmBg|AguAhMun@gcCwY_d@upA}qAkJsbAf{@ubBsLog@}qAg`BcN}i@|p@_f@urAyr@kLizAqfAa_@{jAgpEqFyeDtvBsbApFyyAo\\gy@`EelCo|AaxDieAu~@ih@{uA~BehCblAuhCvZ}{Cck@n@piAokA|t@q`@jiBooBtt@}iFgyAuX|p@qkBv[mh@kNosBrfB_kA{m@w}AuVmBybAauCuUgQmt@_oBqe@wQo^uaB{q@mk@^eUo`A|@e{AafAkuCosBpk@cZqHm}C~_@qa@gaAmtBoe@_qByFwSyn@jKohAcbAwe@wx@ucA{o@c`Bwz@qDatC{w@kn@aeCkwA}lAoiAqKmqAklB|Cwl@osBrW?t^eqDfCadAhOmB`q@zo@rlB_AllAqa@jgCaa@daAkGb_BscA~mBm{CnjC}DphAfw@vcAir@ltB~@nbAu~@`JfSzjB}wByGwSvvC~vCxe@o@xaAjp@o@afAzcAucBp^w}AcbA{xB|SmAh{Ac\\nA~iAtiA}g@vYywAngBiyAeQ_lAxuA`fAxw@jm@o[vz@p]|nA`tDsgBvWhu@rb@{F|aAvw@ps@s]`\\egC{MqdAmcAoe@~Xy{AkIctDiqA}nAx_@q_@tpBwu@`u@ixA`]{`DaFsrDpaBkaDl~@woEmOaeAfk@mwB~j@q`@rt@ebB}f@w~AdgB|h@pm@_f@t{@On_Aqb@bG}sBc]{FciA_mAap@_g@rLouCoAwTj`@}pAqW_nAr^oiAiBsaA{v@qoBaX{xB~@yr@p[wS~_Awv@`CiNhp@~@z~Agv@~~@}D`aAmj@lNalBcjAgcCkGxq@r|AeXrt@wv@~pAkJlx@rcAhgB|i@tNxK`fB`eAdb@jn@jsAbnCsYlpAge@nqBaVbnClKbfB`oApfAryB|qAd_@h{AfkBmEfd@omAx{@a_@z`Bh|Az{@vOboAq_@lrAeV~uBxxAdK`gAbh@`yDkFlnAtm@x{AjiBveCgPl|CitAtoDlnAf~ApUbvDhAxu@fa@h_ChtDnf@n_DxKzsB"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 371000,
+                "name": "威海市",
+                "center": [
+                    122.116394,
+                    37.509691
+                ],
+                "centroid": [
+                    122.000809,
+                    37.118689
+                ],
+                "childrenNum": 4,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 9,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "}gdgV{}ucFqeGmfB}pA|FqnB_b@yNskA{tAqVeXuaC}uBdHwv@sLit@{hAedB|f@a`@iT|B{eAhq@}`AwQ{f@mwBlzAosBxVeaBkOdVseA_g@iRko@|bAshBeCnf@bi@}g@de@i`CpR_Azi@xt@t~Ahu@tC|i@|e@`eA_AbZzoAqlBdd@sZ~\\p^th@iq@tkCwu@xy@kHtiAcfBli@iLa`Ayt@yyAqoBnByq@sn@omAjPyJku@oc@`WqhAsN{n@bm@cfB`Vgy@hz@~b@`\\^zu@aa@zs@_zCrMyJ~f@_yC|L{yHwa@od@p]cqCvAy}Bob@wkDiXudByx@yt@|IxLvgAkp@fh@opBrQezFpVyeDkSw`BocAcaAsQ{|BoBqjBcTqb@br@mk@st@gx@hY~d@rOmi@tk@wy@|E~f@i~Aw~AWeVff@gaBtm@wOxbAgv@|p@~nB~iAvSto@zuAdKpa@sy@zxBi[juAdNf|AzdBf_BrObgBhuBzF`hAaoBsRlE|r@tdBreAz}BtqC}k@ty@t{@np@qb@vn@t|@|~@qlBdNko@}NjJrqAe|@pc@?zqAuUxm@k{Bnu@s]~x@b]|kA`nB}Jvy@vhApnB}Lpb@hl@{uAnmAlDp~@``@bc@fdC~@zbDcd@zfEb\\xs@rh@xt@fqAvS`dAfShcDgRlzB|DbbAx~B`~AkJlf@idDt_@cbA?{~Cud@_xCcaAigD}Te{@rfAzJlb@fjDzvApdApsBmAzxAahAteA}Bt~@`hAllAmCblEtXf}@t_AnjAfaB~dA|wB~XnlA_a@}CokA}k@os@d{@wJnpHg@``@v`@anBnaAkp@fxBe}@_Bjm@n~@peAoW`xDxsA|nAoFbbAoa@hu@fDiOf`@xq@paBflDpw@jp@`i@zl@ix@fv@hl@tpDqh@pmBvFrfBgc@|qAvIr\\~Z|}CisA~vCxd@vdCnAvOi}@wy@gWmk@y|@loAapD`fAnKxr@fz@~aFow@xLwUu{@omCywAmzBb\\wd@vw@gFf~Avc@~c@_L|k@~u@kHncAjn@vo@jyBo@ffCvy@{G~x@|k@f[dVxvBr\\wT|A_~B~iAopAvPenEht@moBlwBff@pgAo\\`a@leA|nAnw@|gF~b@`zDvaAhfDfd@hq@ng@voE~dA|qAve@j_Dnn@bmCvy@~b@~u@kJ`~Ane@xw@lxBvh@niA`v@jo@oQ`hAhj@p`F`\\btDhiA|qAxs@}AzvAaa@leBmvB~qFxKxXn~DurAh{AoD~f@sm@{HmnBf~Axj@v_Bs|@xwAfKoqBftB~@jt@fv@br@pqCac@t}@hU_@i_@{uAac@kGyZv|Ayi@niAhWfPchAd~@^zI{{@prC_QjFyi@g~A{iAkfE{qAqnBwD{p@y`AubBa`Ar]wQz_Dhk@fx@~[ll@x`AtbBpZxeD|wBxKjtAtaB{vAnkAi_@hlEwOhr@~N|qAaY}Diz@z|B}dDfSy~@`hAgCb[qdA_@ygAog@on@weCob@x_Co|B{Iwe@`b@wnBlrAvDtwE~eBr[wEbYgqAveCg@b`Agw@fw@~GbaA}iAtXm`Bh{AgSzl@mwAtTk`BjuA~F~sB}dAzp@nKb]mx@eVklA}qA}SmAuo@~f@uOlBceAc[kcAzEo{BmoAkj@yqFiqAgSq`Aw}A__BkcD}oB_tBcd@{m@vDuWpr@wv@b_@ywAfC}k@aw@u|@}Yqa@`dAnkAdMoqBlcB}j@m^_d@tViu@nuAq_FuNixAs}B_d@eMqnBlNwsEteBqmHgBihDe_@q`@|Sgv@i}@kFyhAb^uVq`@wiAe|@|RqgAd~A}qA{d@uT{d@e}@wHmErn@iyAp}@olAvEiNp~@gv@ycAob@oGzGsr@}h@}Lpa@qs@caAfCa`@t~AuwE~@eVaaAe}@nAk}B_{E|i@qj@lk@ba@r[uWafA}M|DurAgy@{Xjm@efClk@hd@}E_t@lk@ePlAoqBww@ae@qmBoBgTskA_g@op@ko@k|BjJcdAsYkYi~BrS}j@cUqhAoxAm}CkcAoc@wm@q^ahE_kA_oAaoBsz@iq@{{@u_AuzBkIkx@ksAglCrZsLNme@`a@mkA"
+                    ],
+                    [
+                        "g~vhVic{cFpgA{L}oAiuAwS|`@agA_@wQhs@{rAxXxjE}I"
+                    ],
+                    [
+                        "emeiVwyi_Fwy@~G|h@ha@vOij@"
+                    ],
+                    [
+                        "ymndVmke_F{n@{l@{m@hRv}ApY"
+                    ],
+                    [
+                        "eaieVmta_FiM}{Aiq@xPt_AdjA"
+                    ],
+                    [
+                        "{hqjVi{pcF{Fkp@mk@f_@hs@bP"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 371100,
+                "name": "日照市",
+                "center": [
+                    119.461208,
+                    35.428588
+                ],
+                "centroid": [
+                    119.146499,
+                    35.578656
+                ],
+                "childrenNum": 4,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 10,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "gojyUa`fxEuU~uBdbBvjEraAhoDr`Att@t{@raGnd@j{@|nAff@zn@l~@loAzfDlD~aCu~@bz@xKnkAzo@~e@b|El{@tWnpB}oAg@|Bta@jsA~W^fsCd}@sj@hq@OrZixAzsAuUz`DtrA|}CjnCxdDzzD|qA`sCjtArsKmuBqBmA~x@xaChAxN|wAcYxc@wcCxy@gy@fk@uXj|@`c@tRztAsNd{@pWli@j}Ad}@jP~lA|~@jtA|Qt|@mr@jvG~k@dXafBf}AkhClxBoKphAga@h{Ay@j|BlaB`lBgV|g@{uB|h@cr@faB{Dt}@yX|CocAu{@in@xr@c]jn@kbBhq@}i@juAyMuUuaAejCgJwv@ar@cZsoBkn@_gA^k`Aqa@wc@zp@wvDv_BgKxq@aZ{I_p@hyAalAzJii@}i@_d@zIwq@lnAqCdnDz]vz@tVvv@utAjImtA|k@kSvPyt@d|@tHbhBkj@bZma@j}Bu|@nyC_Lf~A`i@uXh~AjIluAjuA`pA`eAnd@hzAiPrgBlb@jl@op@zFsx@bjBkk@f~A}I~rBe}@wRycCxs@cS~d@l}@bfB`cAzcDqN|vBfWzrAeIjo@s_@jm@nr@pwDht@f`Baw@`fAz]fQgf@lnAm}@jvAzdAn~D{]j}Bb_@lh@wJ|AogBltBeVr\\qsCamBwt@cgB~K_h@wXf{@}b@dVcrBmvBuWwQk`@adAiQac@p\\{_DgMc\\|UccA_Mi{AgdAc`AekBfy@u`AjbDciBhMc}AeqDsxClEa|@sbAmi@ob@ghAr\\wiAeW_dEqhAq_Bw}AaqA_zC{vDwO{yAolAm_ChMgaA``@cHrcGbYztAiTfdCkIf}Aek@tVuk@gSq{BbZsk@zHevBucBcbBkp@sqAxNoyAcbAkqAciBsGs[kXkI}sCgx@}aCojArHhL{~B_~Dgh@zHgbBe|@mw@qpCWu`Hss@gz@ed@uY}nA`lBudBedB_wAa{JsKm{Ccw@cjBebCksAdRqgAjw@ng@dMdUnaAe{@tLkFxn@fy@xn@aa@rrBo`E}Pit@dL_e@xwA_kAj\\e~@iWylEvAomAuc@}tBeOkJ|`@arCc`@eXzu@fSv`FeXhm@ztArH`oBdhA|j@pEvw@tfAclCr`AuU}iAkl@iAgeCf_BkdDOaqCs\\sbGaaD_mAaFeVlqBqnBda@qwD_f@w}Ax{@cbAlrClqA`_BiwAf}AkItuAp_@fzG}j@VizA}p@kl@wq@qzDk~AsfBeKafAm^gw@xAqmBnv@ccAr|@wSlaAt}@ln@kHpiBecBdMgdCvfCzn@zi@wSzi@hOpdBtUnOsY|lAgx@`eAtVteG|h@rg@mAp_A_tB|y@kGngBoqBaSwbCbf@yzAgyAyr@``Aiu@}Iqb@oxAkzBnn@sgBh}@saAiB"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 371300,
+                "name": "临沂市",
+                "center": [
+                    118.326443,
+                    35.065282
+                ],
+                "centroid": [
+                    118.286436,
+                    35.311894
+                ],
+                "childrenNum": 12,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 11,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "}ltkUomhvEi~Bis@arC{^uaBcgD|zCqaAlj@}_@zp@qsB}BabAovCubBlBg{AqfA_aAzl@wjBpgAii@xK_lB||CkdBktAmaAe~@sbCc`Asn@s\\qxAc^gLgy@lg@cgB~\\gSq|@_kAeI_f@i`@tUim@~jAgZzp@_fAgSyo@g`B_@{sA|VcoIoj@adAerAfRce@yM}cB|k@uYwS}`Diq@aaAyK{sBof@o_Di_CitDyu@ga@cvDiAg~AqUuoDmnAm|ChtAweCfPy{AkiBmnAum@ayDjFagAch@yxAeKdV_vBp_@mrAwOcoAi|A{{@`_@{`BnmAy{@lEgd@i{AgkB}qAe_@qfAsyBcfBaoAcnCmKoqB`VmpAfe@cnCrYkn@ksAaeAeb@yKafB}i@uNscAigBjJmx@vv@_qAyjEaG{Jg}@e}@ud@n@}x@wz@sjAsgBgh@{o@edBww@VyN{t@_d@ja@wv@mNwPe{@}qAec@spCqAgQni@ojGnh@}vBjjAit@lcD~kAx[}qAf{@wPzt@uaB`n@saA`BmBbt@gw@hk@aeAbH}Ab^ahAmPojAqm@_kAsHu}@kfAcaA{Jod@pY_yCey@iq@aDkp@ywAweCaYs\\emAeoD_Sg_BxbCsrDfiBqgAcr@}aEcIwQwS~b@_`AloAmmAoe@wh@`b@w_Ar`Awj@|h@w~@_f@qs@}pAbb@kwArHuXsa@wy@~U_c@mlBlAu|@xu@gaAwRa[xu@}f@g}Ak|@}g@{w@fPmbAdhCaFq_@av@qa@p\\{}Bau@_d@mg@w}Acd@yq@hDlEiiBir@iy@u{@`^_wCwnAebB_pA_tBje@wTkd@gv@~@moAdo@gz@qFkp@tgAtTrg@gdCdn@yNcd@ccAgXafA`sAc`Aia@tTq`@mBc|Ayr@xFgy@wlB`b@_u@iaCa|A}wBfx@eeBq`@mj@vXifDoZaeAfW{IraAdYfWyK~mA{p@zJq_@dp@jHbvBab@vW`b@hy@{Jd~A_c@pE`a@hlAg_Bb|@c^tk@ab@gYegC}O_mAeyAr[kd@{|B{Imj@ke@afAnq@eW|l@agAiBo@bd@orB|f@qhAuk@mrAhCog@ka@opBruAu_AcM_pBfdAfTdh@zuAps@lk@ndAxLrmAqhAz^dYjpA~kAzKpfAgUpgAkw@jsAeRbjBdbCl{Cbw@`{JrKddB~vAalBtdBtY|nAfz@dd@t`Hrs@ppCVd|@lw@{HfbB~}Dfh@iLz~BnjAsHfx@|aCjI|sCr[jXbiBrGbbAjqAyNnyAjp@rqAtcBbbB{HdvBcZrk@fSp{BuVtk@g}Adk@gdCjI{tAhTscGcYa`@bHiMfaAnlAl_CvOzyA~yCzvDv}A`qAphAp_BdW~cEs\\viAnb@fhArbAli@mE`|@dqDrxCiMb}AkbDbiBgy@t`Ab`AdkBh{AfdAbcA~Lb\\}Uz_DfM`c@q\\`dAhQvQj`@lvBtWeVbrBg{@|b@~g@vXbgB_L`mBvt@s\\psCmtBdV}AngBmh@vJk}Bc_@o~Dz]kvA{dAmnAl}@gQff@afA{]g`B`w@qwDit@km@or@ko@r_@{rAdI}vBgW{cDpNcfBacA_e@m}@ys@bSvRxcC_sBd}@g~A|IcjBjk@{Frx@kl@np@sgBmb@izAhPaeAod@kuAapAkImuAtXi~Ag~Aai@oyC~Kk}Bt|@cZla@chBjj@e|@uHwPxt@}k@jSkIltAwv@ttAwz@uVenD{]mnApC{Ivq@|i@~c@{Jhi@iyA`lAzI~o@yq@`Zw_BfK{p@vvDpa@vc@_@j`Ajn@~fAbZroBvv@`r@djCfJtUtaAkuAxMiq@|i@kn@jbByr@b]t{@hn@}CncAu}@xXgaBzD}h@br@}g@zuBzeEfVnlAre@xaCl\\xt@r|Bfw@be@NnjA~b@|Qb_GoInkAv^`uCp@jgEkPlqAbd@xdDvIx~Bhb@bgB}}@pkBlRzl@dg@noBfk@x~BrZvPzXiO`jEnc@b~DkHpsB~`EhlE~wC|lFfPjjDfpEaBlCtl@ktAxeA``@ju@yMfx@`a@hxAriBdc@luB}Nfx@r_@qhAdb@jIzxApeAyJbbAx]gPhqBqdANu{@lt@mvBuWgy@dPi|AdcBnyClsB|wBj{@lwByAdcBda@juAn~@vv@p@biBk}AjuAiIbhBjq@bsDcz@dUomB~_EhI`gAlb@loAbC|h@c`@hwAuExNt}BxyAr_@zl@hiArfBvYtaBiTjn@tgBab@fyAys@`d@|EduAt~@qJbbAhn@jtAwt@f_B~zEc[~lD}mAnoFzGxgBxt@fuBvz@rc@`_@ny@r]tjDnd@ny@lA~x@d|@bCv}AdgAhfDcKlEo`@lbEhH~{DcSjHzkAfy@NhN|m@ryEmEpfAzj@bbAkl@xNtfDlrA`Jh{AsS~e@s{@dXjcAvv@cK}h@ajD{I{eBzEinDlkFeiClk@oq@gw@ytAsoCmo@iOo{AcjB_xCfcCql@t|@lM|oAk]dUux@bbAdq@jaDoz@feCk^eTi~@y~BusAoiA_bCzI_k@~lAc_@~c@o}@iq@udAnsBer@~e@zLh~BgGvTlXvnEcz@hNprAb`AaBlAwt@rfB_b@mDes@tpD_t@pgAN~iAbtA`zDe`@lh@|~CdiC{BfRk^hyAj^zvAsKxJk_@lpAr^vOie@`hAnl@hxAO{rAm}E_g@}N_e@gqCng@m`@zHc`B_g@ikAmB_xB|`E}t@v|AuhAlBqwAlh@ag@wcCyy@q^o|Bhs@i_@zgEyoAd_A{u@r`AkfB|pAuPhwAgwBr`Ak`Ane@arA_c@ctAko@uGyOeoAe{@s`Ab]o}@}j@eeAkH_qDe}@g_@mh@uz@hs@yu@zeEx@gQybCjwAcp@rgBo`@jyBuiAne@e~AflDc~BnsB}aCdXmHfy@kiBb]yAhNyeAzrAiXhxAdk@jn@yAx~BilCjFudBzyBfI~kAej@zwAohBlmA_b@jzBuT{Gm|Ad_AyjAlpA{Pll@ikA"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 371400,
+                "name": "德州市",
+                "center": [
+                    116.307428,
+                    37.453968
+                ],
+                "centroid": [
+                    116.653994,
+                    37.251363
+                ],
+                "childrenNum": 11,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 12,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "garaUicj`F|h@gTmCe|Ae~@nNg_BmaBiu@}cB`_@ug@ll@~[{J}lAd~@uo@izAk}AqjBuYa_@mv@lDk|@{rAmToe@soA_wCq_B|E{_Au|@v@gSqqAaeAueC_d@yoCnd@y|@mBorA_lAcb@k}BacCzn@oaAc^ykBu_Aam@}Coy@oc@bXizAir@_iAbXedBqaBkIqe@lk@{Zwv@yj@~c@_u@ir@eSmE_l@zm@m~@yKux@cbA{hAwPkiAhu@|IvOwg@agAuKvu@ceAaeA{ZukC}Gvw@un@}qAtFsbA{_Ami@bUi`CuEsYigAudB|Dg}Aq_@}uB`[u|@ia@u~@fDqfGqaAueBtwAe_ApYirFxZsjB{~Ae}@wqAgv@fCiOcy@u|@cQ~lA_mAs[yZ~iAaY{p@yYxaC|CfQ`Wv`BkNdYy{@uaBcvA}Aco@jtAqV`_@y}Be_An@_f@ehAciBxu@jJ`W{{BliAb^ejAmxBmc@b]uf@}i@ef@xt@ySmqAsq@rjB{KgS{h@`_@{k@}oA|D``@av@a`@apAtTiVqfAu}@_A}~@c]v^o|De_Af_B}_@cfBmFgw@bbAzG~Z_vCw@{o@dd@{G~tAfw@xnAmEjm@kuAjP_d@rl@ksAlg@qiAxtBk|BjmBc[iWiq@{pCw_BkhBy~BgZsiBkcBkm@yW_mA_pB}tBgt@{l@}vAqmBmvAlj@gAqsCqeB_vCaiAkcDqkDe~@{tArZ{y@s[ig@q`@be@ml@eGu_Aa_AaeAqmEc[up@kyBsJlBuq@sbAfUi|A{w@nb@uoBcZmZubBh|@q^uAe{@iqA^qkCzn@iP}oAae@kp@gz@}wBs|AiK}iB_g@eUqjB}D}DdZw~AnQgaBne@a_F_y@gwFqL}`Eve@kcDkGkhE|k@oqBjHmrAmj@grEwy@mxB}Ck_J||@ksAg@wfCm}@qqCvd@i}Hha@qgAkI}pAui@orBab@sjBow@ouC{Fy~Bht@qjBoAowCzcAakBmVi|Agh@uoDoeFyxAuuCagA}mA{|B{bBkq@mpCuTemCcgB_gCyr@dE{wA|gAmk@faGvPp`AhqFnyAe_AbtBuThqCsZlj@gfC|CqhAlk@}A|dBizAha@ccAzr@zH~e@t{@lYll@`jAdgCn}@yMlo@hu@b^lrAvrC}Cjv@haCl[bZln@wy@vk@omAdBgRv~@r[feA{sAxz@teBxOwSx_A`iA~zA~yCbLvQ`f@x{A~T`gAhlCpfAeFjtAayAjo@cKf_Bre@zrA_Whr@{x@xwAptBj{BnfAvx@mE~e@mv@mBiyAaa@ih@iLotBlqAcw@zp@xwAgQj|@~oBj}@rcAveA~c@n|Bjn@|G{n@pi@q_@jsBfQjzA|g@r`A|wBfoAxr@bcAvQbaCrYxnAnmAzNrlCsPxq@`Xvv@daBfgCtaDrpClEnkAtk@doDhVbbAyt@f}Af]rcA`y@oe@`yAxq@`~A`eAbOl~IrM`eAhdBkHtsA`gA~oAvv@z_Bc`A`kBvQh[|xBxlA|A~l@}h@hrAgv@h`FuhC~j@yzAjlAhu@lMyKtcAwv@xa@{G~u@~d@dH|BbrAjtAfw@w_Bho@nAdkA{p@mKojAj^_e@fz@zIrmBrdAlXeXzvBa_@|ZnlAtNxNvjAx_ClQjzBwHdhCrn@h~H~pA~lAjm@mC`hAqa@`gAgTntBw`Bju@sZdc@pa@db@b|EbiAddBbeBrfBnTcbA|o@mAdp@mpA|d@zGl{Ae}@oBk_D~UjHtrAeUtgAloAFaiAnt@coCfz@qb@flCjGxcDmEhzCh{AnTdWob@fz@g@kF`_BvOxd@juAvDhgDil@p`@gTb\\py@qa@`nAv}AwBr[h~@vO~tCq_@|sB}pAvDgQjnA|nApb@nkAjz@lwBpNpgA`XtnD~iBfR|kA|uB`TOzxBtTtbAjwAtu@tUdwB`lBflArsD~fAzzB~DmEtgBniA~`AfcCxLkIj~AtW~}@nkAvv@bjB_Bli@riAhyAjmA{IbXcjBfl@fQrgAdjCpKvu@xx@yM|a@qkBnj@zHnxAgz@jmBzEvoAjm@l_@fcC~j@hxG`m@wSqs@jtAyEuVkx@nmAjSf~Amb@}DeeApa@gi@`oBog@zn@fe@z|BaInc@uiAeUsnBzsAav@hLy{@nkAiMnqByrBnjAmb@zHu~AeYuyCmi@gpDmEqhC``@sgB}k@_eAhKepEdYmlAOoaBvz@maAbYwdBys@mzAuV}{Avy@ibEj}Bq[ubByc@ob@yg@agA~MlFiu@xq@yq@u{@ytAxMax@yq@qx@hOg_@shBwXc[geAhzAwCtU_Y_f@gx@dYoVuUocAolAwRkvAvs@c[gg@vRww@vy@gEc]_l@zHgt@_rB_t@gw@fCmB_k@lpA}r@f_BnExr@}uAdqDgDxdDfPvw@~QtVut@|{Cms@jF|r@tcBO|j@m|@njAms@mAu\\hzAwCbnCc{A|pA~Llk@kfAgPec@plBei@jl@ti@vSb}AksAf@|g@rtAplBtf@oAtn@mk@vPxt@dz@}D|j@j|Bg@zo@fVrbAdiAmAtoBfv@nnAnoBve@rlCv|Bxu@_k@`mBvf@mDnm@taBFng@gb@zvAvDphA_d@ztGf~@fiJgYfiDoZl_DgnAvz@oGdU_aAnc@fGjm@n{AxzAwSc]gUr[gp@b^fUdcB_d@jFfo@ht@oOb[v]pb@g]vfCwD`gAny@}Agl@pgA_v@"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 371500,
+                "name": "聊城市",
+                "center": [
+                    115.980367,
+                    36.456013
+                ],
+                "centroid": [
+                    115.887733,
+                    36.460089
+                ],
+                "childrenNum": 8,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 13,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "garaUicj`FqgA~u@|Afl@agAoy@wfCvDqb@f]c[w]it@nOkFgo@ecB~c@c^gUs[fp@b]fUyzAvSkm@o{Aoc@gGeU~`Awz@nGm_DfnAgiDnZgiJfY{tGg~@qhA~c@{vAwDog@fb@uaBGlDom@amBwf@yu@~j@slCw|BooBwe@gv@onAlAuoBsbAeiA{o@gVk|Bf@|D}j@yt@ez@lk@wPnAun@qlBuf@}g@stAjsAg@wSc}Akl@ui@qlBdi@fPdc@mk@jfA}pA_McnCb{AizAvClAt\\ojAls@}j@l|@ucBNkF}r@}{Cls@uVtt@ww@_RydDgPeqDfDyr@|uAg_BoEmpA|r@lB~j@fw@gC~qB~s@{Hft@b]~k@wy@fEwRvw@b[fg@jvAws@nlAvRtUncAeYnV~e@fx@uU~XizAvCb[feArhBvXiOf_@xq@px@yM`x@t{@xtAyq@xq@mFhu@`gA_Nnb@xg@tbBxc@k}Bp[wy@hbEtV|{Axs@lzAcYvdBwz@laANnaBeYllAiKdpE|k@~dAa`@rgBlEphCli@fpDdYtyC{Ht~AojAlb@oqBxrBokAhMiLx{@{sA`v@dUrnBoc@tiA{|B`I{n@ge@aoBng@qa@fi@|DdeAg~Alb@omAkStVjx@ktAxEvSps@`mBjfCxt@jRtdBrwAlvBlmEb}Eg@zn@d_BrbAlV`tCiEjhEn}AnmGrqAxt@pd@~hAlwAtU`dAxaCx}B~d@tjB|{C~pBz|BhmCfv@|k@lpAnWloGiHp^jNNjmCt{Fj{@t|@zxAxzAj}@`eGtk@tqDzjEnlAfcAheDpbBz_D~VdoDl~@rfBphAppCug@xdDvbAd|@xgAzrAaGxu@ud@h}B{IjzBdc@pmBlqA}i@|N~jAly@_@`m@t_A~TlbE`Yv}Aq[|vBj`@phAxbAvPpbAhu@dd@prCnz@vy@lv@bzEec@prCxXb}EbsCbyEzn@hs@uu@oc@uv@p`@_g@xzAvd@c\\flAzl@f~AvmDppAzbDbrDlEl_@h|Anv@t_AdeB~cFvzBjm@xv@dqD_hBmCamBis@qwCqa@{iCpfAiVaa@sm@qeA~Pwy@wyCwRicDvSex@d}@cq@iMajBmh@qkBcpCmNe{@ojBasCupAqqCyXsZmQkGg}Ell@is@qoBon@b[op@c\\{w@mh@hCiNimAa_@{c@e_AglD}DsuAb[egEr\\gdCwRefBvRgy@mBwkDpdAeWiNklB`_@mr@rfBrMt{@cOjp@o|@pfAah@_d@o|@dU{r@eUqeAzp@eZh~BtWvmDjtA|i@g|@saAsvAzIu|@lvB{~BlEueCxt@asAf}Awj@`fAqHtcBwi@yzAw|Bc]hE_@aeCbhBeiAfv@d`@xNyy@c]}d@fw@gAjFi}@jm@gBfSk`AshBoAmi@cdAtWua@iO_v@|i@e`@}h@s\\aa@vl@mj@iHatCmmCwQshEeUug@mnAyEmE{]`eAo@}Emr@wx@yRnb@{b@e~@y|AccAba@_mAgcAgz@ysAjIu|@{|Bkj@ob@wqAys@e_A{aDcp@s\\kn@lDmfAwx@qVmFmyAyyAelAgQezAmpAqPg}Akv@siBhh@q_@c~@iq@fG{J{fAcbAvFwRxj@iu@V|Ciq@qgAxs@omAqb@uhI{eBmpAq}@gaBa^q`@~R_nAaViq@keBdVqcAokAq~B|Cwe@qeAo_By{AgeAww@gTq`@wy@qjBfT{l@_e@eUoiA"
+                    ],
+                    [
+                        "cu|_Uc}azEuz@gRis@tu@t|@jIf_Bjp@{l@g~A"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 371600,
+                "name": "滨州市",
+                "center": [
+                    118.016974,
+                    37.383542
+                ],
+                "centroid": [
+                    117.847396,
+                    37.542717
+                ],
+                "childrenNum": 7,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 14,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "{}wjU{qadFsYynAwQcaCyr@ccA}wBgoA}g@s`AgQkzAp_@ksBzn@qi@kn@}G_d@o|BscAweA_pBk}@fQk|@{p@ywAmqAbw@hLntB`a@hh@lBhyA_f@lv@wx@lEk{BofAywAqtBir@zx@{rA~Vg_Bse@ko@bKktA`yAqfAdFagAilCy{A_UwQaf@_zCcLaiA_{AvSy_AueByOzsAyz@s[geAfRw~@nmAeBvy@wk@cZmn@iaCm[|Ckv@mrAwrCiu@c^xMmo@egCo}@ml@ajAu{@mY{H_f@bcA{r@hzAia@|A}dBphAmk@ffC}CrZmj@tTiqCd_ActBiqFoyAwPq`Alk@gaGzwA}gAxr@eEs]q`BiyAkwAdWmdBis@kg@qeAcHkn@ma@gdCwMahAzWeoD}SwbC_@{rAyj@m{CzToyC_nB{GwyAomAe}A}~Cct@wSgj@`_@c{Bs\\em@ukCaJmk@em@njAka@}i@koA{IewAiq@s}@wOqaAw|Aml@qtCeqBmrAc`CsxEahDhMjtAwSfs@ypFdxC}cKzlGgcC~x@{wAkS_kAsq@oaLpVczKzsCirFvuFuqDlOfx@xrBxt@pg@{sAnk@sYbv@t~@d~Bhu@dTeXvmCfR|tBdYveFoe@tyAhu@bWiOlmCd}@jZiKtd@wx@kFyL`cAjGrdBmk@tDwOhjBko@l{@|g@xdAyNtaBe{@z`A|EctAs`ArhB_@zaAqfAyv@sfBuVw~AerAqgAhu@y{AmVojA`iD~c@~c@_iAo@jFjo@qfAtVdX~g@uz@xiCjsAjGzo@`eBOn`AolA`c@}B|p@phAvTrZhjBz{B|EyJt_BfSuF`hAlqC}Bnn@bdAt[|Dts@ht@fq@prCnm@xyAoV|j@bNztAgo@~pBbLli@kc@p_@jb@nqBvXr[rsAlj@mBxKbvAxt@pOyN`o@xNz{Ahr@ta@iKtc@juAfXll@piAeVri@kp@Op^poAml@rLmeEsl@gQjg@vPd_AzrA`o@vP`v@nd@_@xs@jgA`c@jLiOny@`_@F}CnaA|k@v]}Bzq@hq@jQzn@tjBomApZli@jQtUveBwcCeKkuAzSkvA`fCkIjt@`a@rt@{Fj{@pkB{Pht@|p@oe@ds@}qAuD{FvpAc]|Ic_G_{Bi|AkPmEttAc]rUclCN}Amv@mnAkNuTt{AqgApYmoAcPq`@pYr[~d@unDO^zjFc[|u@of@oB|Al{@sfBdJ?~p@mpANgRpf@e|@vE`a@hc@gz@NuU`~Azl@Ohq@rvAt|@~CtVt`AqlBboCqhAjX}Bfx@mi@xf@eYtnAlk@tOfQhbCrcAbm@b^uIp`@hx@xt@_Blj@hq@aa@zo@jp@~CsdArdCbdAoGmBrx@~c@xiAab@j{@|DvqBlpAtn@kGrbAdaBdl@hKds@~pBd`AjFdz@pkBei@fv@dXphAo@tTbhBnkAnBdVdbAfv@do@|nAvWxyAgYhM}_AzfEgYmAmh@t|@F{I}iAzwAea@_Amu@``@keAa`@uk@_AkeA_iAwO|Beo@mi@}QlC}m@h`CO^qlA`b@irAxyAqz@r\\jd@|{CdPboCrw@ne@qbAbcAm[|Aso@qhA_@afAy{@cdAu]hzAktBp_@_gAyNofAojAyo@fQyl@qfAqp@p^}SdWs}Ad}@kd@tcBb[zIgbAfz@s[hyAmFfPthAhu@dPbfBc_@t}@tMtT_s@|j@tL}k@ehCg_B_p@nb@}O^srAhfDuy@bhB|z@kJie@zm@skAjgEv_Bx`CdPbcA}aAxeD}y@~kAg@jzBph@ndFtiDxs@jVlrA?n}D{XnbFot@`lB{lAbfB{Wv}Anr@zuAdsBfS~vB`iA`_BbjBf{@ne@|oEpb@xy@njAhv@rnCt[oe@`lCciBtRyNjf@vw@|Z}k@zbCebBdYqlBeb@ccAfB}|C|e@cvD`bAstD|ZasCO}pA|VuiCwDe|@}RuqD_JudHd]|j@b}DkHlx@avClOc[r_AtXtf@o@ztAeW|o@q`FnVq`@|g@jIlmAgRtv@_rBthAcZvj@lCtvB{p@gxA_c@vgA_nAwX|EvjAt}@nr@t_A~D_Avz@bcAvGrbAf~@xJv_Al|C_LlCfm@tbBvRvz@_`@fw@fh@psCGb]nXeWhwBd|@xfAjFtrC~e@fYmDpu@yu@~BkGrjAyzAoIu_AznAkJtvAzxBxc@{Gck@zp@sdApb@ph@baAhhCv|AlzAhL|kA`dApZdXzo@psCyIdqDxIzn@iO}Acj@geCwdBvSss@saAwvBroCim@doDvJhs@{{@d|@exBpxDuiCfvFkeBdnDswDvRyfAyNi~Aa_@ou@zF_m@xyAweCryEebBa`@w|@qhAvn@yM_j@scAgZ}C}{AtcB__@_d@wb@ne@mw@nkAfGbiBrdCt}@}jAv~AgRpoB~W}E|k@|tBvThxAwApgAfSplB}y@peA|x@nlA~QlrAg^|oAglF`iAms@l{Cep@pdAu{@hKc{@cbAeb@caAsaAgP{z@vQolBcsDd\\{`DywA_pBed@ilE}XqmBgeBdYko@r]waD?a_Alh@eQjGmvAlh@urAnpBsaB|oAajBhOyn@_g@a|Ai~BOr\\kUmh@}cAmoAbZ`b@wo@zGqyAb[~@xLaqAnmAkfAnd@cjAhNoaCeXynAyLehCxxA}{AjiEikBxs@cy@iq@uuAkHafBteBy{AzrGjTztAmf@_lA{q@vRyXx_Coa@{Jko@yeDko@a_@{kAr`Ais@h`CkMhLkkAfv@qWhLeg@"
+                    ],
+                    [
+                        "uouqUy~agFyLehDgy@^}BrkD~jAmC"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 371700,
+                "name": "菏泽市",
+                "center": [
+                    115.469381,
+                    35.246531
+                ],
+                "centroid": [
+                    115.698013,
+                    35.152536
+                ],
+                "childrenNum": 9,
+                "level": "city",
+                "parent": {
+                    "adcode": 370000
+                },
+                "subFeatureIndex": 15,
+                "acroutes": [
+                    100000,
+                    370000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "}goeU{evsEdT~kEvR~mK|dEpe@nc@~l@dVdvByaCnm@wv@~c@mDjg@|k@hx@~@bq@lk@|N_@xcBjuA`dBe|@hiApmBh`Al~Ch[nc@nZzHpoApa@th@biBei@v|AmEjm@th@zHrcBx~Bv`@jm@jw@xs@fwBzl@gPbfB{{BpnBuMvv@nj@fpEvgBd|@jB~kAug@t{@wmAlj@clBrfBccBnsBuNfkDpoAplB|MjtA{v@ztAuuAxt@aSt~@bVlh@tq@lCdoBzvAth@psCdEhdPzgAxt@hZpgAsLmC`l@`fAlMl{CywAng@qd@vrEux@|pGcTli@kn@~kAi@jJryDloA|rAv|AoGj`DebAtX}V`mBaS`gAvOrfB}EbiBtNv`BwH~f@xRfqEo{@jbDkaDhu@{jA|h@yaBnpBy[fSauB|rAmqBiM{uChL_hAbdAo{AahAsjDfw@ovCzJosAjp@e}AloAcNiMka@zn@ymAxyAuc@h{A~QdjCkt@rcAuv@deBy_@~lAgo@h{AhA|nAbl@h|AwR~rB~y@|mAg]tXcxC{Gmx@ys@uaAgQkjA|nAa`@dvE{MxL_fAgw@_nBc`AyLvQa}AbcAjMlh@zl@heDwfA~oB|Z_Acw@raAgqAf_BoTkJscBr]e\\dhChU|aEpArpCzxAzvAjZvu@f|@|nAqa@zp@udA|jFqK`rCfJ~iA|p@rcAxiAt|@cx@nd@wfA~pB}[vy@mz@uXgrBhyA{NraAdgCjhEsm@k{BerAyr@snAbZyb@rhBo@h{Ac{@omA_kCsvD_v@g}A{q@mh@yn@mCacAbdA_eBniAifAluBcuA|Bkq@wx@qrAafAa|@g|Akh@ykEga@muBy@eYgWfPytHmzCel@gRob@qnBqAo@su@~jAuTauC{pDcjBc}Ae|@cDwRqkC{n@}b@e|@mhCyq@au@iyAmHqmBrSmqAknBtVwiBmi@md@ixAtjAwv@_@wRexA^bqByu@wt@^ay@c`A}To_Eo[ugCbEis@vZoiAiNwjD?{|B}lAw}AonAjJgt@ebB{n@y~B_`B{|HirB?sq@zn@gnCgSedAmj@aPxyAcVlDmh@moA{E{FcbAe_Arb@{FmeA_mAfL}Auu@od@`As\\wz@alBggBcZq~BsoCuxBmpA}jBww@u|B_xCavDm~CkiB}mA`Dww@wo@kyBzVu{@_s@i_Cnq@oc@wp@o~DiCarC}[uhCel@eqDwQc\\qxAhKa_Cyq@GkKegBadA~PwPwxA{n@bHmj@gkB_qB?n@}`@sbA?e{@yaBmnG`}@s[ms@{{BnO|A{k@mvBiCqa@cbAmk@cYjFlyAs[_v@|CdgEyJfyAog@`mAizAnQ{tAyg@{vArj@dW~a@aqCzk@_zCj|@sfHx`Dgy@bh@izAtaBqwDr{Aiv@jh@e}@vpAmqAdjAotBvnAob@f|C}i@`cAnrBx|B_AthAwv@xnA?jd@rbAb`A}DrcAyq@v`DiLlxCrYnpB{m@tr@}CzxAy~Bjb@ccAoKdXpyCcdAs`@cbAtJlDyaBs`AwdA?pz@is@vZe~@wMr\\rm@yMpiCadAV}ArcBvSnbAgSr`B{p@zfCvOxpAnd@dp@zrAta@xr@tn@oe@pjEecBntAkp@|_EktAeGerDg|@uVlIubB~hDjG`mBv}AvrEhaC{ZjuA}mAOrr@ne@fb@f~AqMyu@~{A{Itt@vw@dmBd{@b}@roCdqEvjDeH|qAdmCmoAhMjtAxoDmF~^thCnIb]tsAkF`xAauCl{D_aEr`CmCn}@fz@`k@|i@x_A}j@xUo|DtZww@vxBokAfh@}pAdGytFfxAy~BnbB_lAbWifDlP{tAnp@euEfIq_FvlA"
+                    ]
+                ]
+            }
+        }
+    ]
+}

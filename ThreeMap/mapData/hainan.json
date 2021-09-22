@@ -1,0 +1,953 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 460100,
+                "name": "海口市",
+                "center": [
+                    110.33119,
+                    20.031971
+                ],
+                "centroid": [
+                    110.422966,
+                    19.852113
+                ],
+                "childrenNum": 4,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 0,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "yd`_TonfyBukFahHmhRsSaxHboBk|CysHqmLqZ_`TdaFidExKe}Ln_QedFfmBa}FhfJeDjiHu`F~`Aln@zoGtuEki@tfHxaN{Ap}LmsHngBddFjlIk_@dxGhyDbiCr|Lit@xaCsmDtjEmzDz`EjtBnxIgiErlD}dHs`CqtHhlImiBl`D|oCnbI`~@pyFhn@xuAufF{zBsfFveGqqT|dEyJhhB{gIavCcoJp|B{Gn{EciH"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 460200,
+                "name": "三亚市",
+                "center": [
+                    109.508268,
+                    18.247872
+                ],
+                "centroid": [
+                    109.421656,
+                    18.362263
+                ],
+                "childrenNum": 4,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 1,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "izzwS{b|nB}dOq`PeeJwwDe}VgjB`~@kjFwrB}`HalGwa@u_LbbGcyBkiJ}bMujH{sBrsHmaO|mCutDbzB_Jd}FtdCj`KsvCtiEsrWx_@gxGqzEuxAe~Kq|IepB_sDvbItzCrkEi~BxlNvhCr~@npEzc[bsCn_BjrK|K`aN~gE`dJe~C`pKwq@pgCghCbuOoaBrfLgwHzcUx\\b`Fwo@x|D}|IlzR|DrxHl_BluC}lD"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 460300,
+                "name": "三沙市",
+                "center": [
+                    112.34882,
+                    16.831039
+                ],
+                "centroid": [
+                    113.343872,
+                    8.21455
+                ],
+                "childrenNum": 3,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 2,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "sgirTcdrp@}nD_wH{wIavIo\\}fMkhEdzA?d~H~bFn{KxtJbzHmiIy_Mh_NzdL"
+                    ],
+                    [
+                        "gcigTwnfgBzcAa`B}pPcfDajBdiEpwKdtDkuGe}Ep{Aa|@hxJbcD"
+                    ],
+                    [
+                        "w{lmUajt{Akj@syFioEmk@rlDdvEwZfoKm~RhyB`tRlf@hsBcaN"
+                    ],
+                    [
+                        "mc~hT{pzaBkqJ}oD~u@}iD~oRcX}`RqgBcvFb|ExeC~|Dr{KjaA"
+                    ],
+                    [
+                        "epmhTy|ebBkhE~D|dOz_Jso@t~B_mOcnEfqN|tIjjGgh@sz@q{G}~LqfH"
+                    ],
+                    [
+                        "{ndvTqvlm@kxCigEm_T_`Es{Ks~Hc~T{~JazJ{fP}q[k_OgiJueB}hLfrCuxAdsIlzApuDz{MpdHlrGbsHzdBjpP`|ElgF~gNzdCt{Xv{IhgRjrCn_MjIrfLa_ErkCcyF"
+                    ],
+                    [
+                        "mctvTo}cu@spK~qD_gChrHf`BxoBjsEsvJ~bFo~E"
+                    ],
+                    [
+                        "}~ovTws}t@_gCeEcuE~jGddFdc@|wB_iH"
+                    ],
+                    [
+                        "w__iTwrmcBgfD}bFbdCk`J{fGvdElwErrKrpAaS"
+                    ],
+                    [
+                        "y~ljT}fsbBgqDyfDgaM~DpqBbdFv{Jdd@bdCogB"
+                    ],
+                    [
+                        "aq~wTyxnt@slDg}BuiDlqIdsFzpBbcB_eI"
+                    ],
+                    [
+                        "km_lTcrvfBmyJfqDbyL`l@u~@i~E"
+                    ],
+                    [
+                        "eo_bUklgz@ioEknLquIqPt_E`fWzjDll@rd@srGvsC__B"
+                    ],
+                    [
+                        "ui_{Titc~@guAcoD_dGaB|wBbyIfaF{eD"
+                    ],
+                    [
+                        "ueqzToky{@ujLqsA`tAv_It{D~_A|xCelH"
+                    ],
+                    [
+                        "_rkuTkqrm@icKyo@aNnpDvwJhyArY_zE"
+                    ],
+                    [
+                        "eub{Sgoyk@a`M_iSa{UmsTmpLwdB}jQtRagPxaC{qGprDd{@frBbw[s|BrbObtAnxIfdEdcOltS~jJjlItqHf`@d@{xD"
+                    ],
+                    [
+                        "gttdU}heu@cjEyiFebDjdBflF|jG``CoeC"
+                    ],
+                    [
+                        "m~zmT_y~t@szJsmAybGl{FtnLtRvnEo`E"
+                    ],
+                    [
+                        "uaomTogt`BhnDeWstAqqFmqWafDavCdcEngGboDhfQj|@"
+                    ],
+                    [
+                        "khtyTmlcaAqtOeuKgkEkp@sd@~fInoDl{BrcIajAxlFzsElc@weC"
+                    ],
+                    [
+                        "q}amTatmbBgkVunCw{@|tDnhK^|_QvnCm`D}uD"
+                    ],
+                    [
+                        "scvlTibffBxxGomHs{D_Me|An{H"
+                    ],
+                    [
+                        "qipgTsglcBioEgy@{nAtdDd_HmjB"
+                    ],
+                    [
+                        "kr}_Uufl{@svCy}E{bJdgBzkEdlHtmHquD"
+                    ],
+                    [
+                        "cu~eUmmm~@snIkuChjDxwLo_Wy_Byi@nzD~gNp}DbmRyZx^kzFgfDocH"
+                    ],
+                    [
+                        "aip_Uibdx@avCkcIyuAphJxlFed@"
+                    ],
+                    [
+                        "cs|}T_}dr@o{Eaz@i|Ql|CgdBbyAb_E|_GliSu_EnsAw{F"
+                    ],
+                    [
+                        "kn{zTsqbq@eaJa@w|ArbCjzH~ZncCq}C"
+                    ],
+                    [
+                        "cy{yTy~pp@}ePikFgqDzt@~rDjsDvxKxjBljCwhB"
+                    ],
+                    [
+                        "_advTgnzo@_zG}qAq~DjjMtxKguBx_AeaG"
+                    ],
+                    [
+                        "m}qtTehxu@}yN}lGwfAjdBf{MtdGleBa|A"
+                    ],
+                    [
+                        "}pxeUy|~v@wnE{x@xt@reH|xCwkF"
+                    ],
+                    [
+                        "kctjT{|nVsaDytDqqBjqFdtGs{@"
+                    ],
+                    [
+                        "wtqzTwxwdA?kkOweGai@zx@ruOzkEx^"
+                    ],
+                    [
+                        "qx`{TgidbAirA}zEc}IywL_mEz_@ve@xqDbfOnnMrpAkM"
+                    ],
+                    [
+                        "mnj|TcuhaAmqCywFebDdEzuDjwJv}BudC"
+                    ],
+                    [
+                        "c}~}Sg{{n@_fBa{FctNm{IgxGc^a]xhItjEfxHbbKrrEvzFuQ|gAkkE"
+                    ],
+                    [
+                        "er~gTaxocBoxBqaC_gChzHn`GwwD"
+                    ],
+                    [
+                        "iwlvT_ldu@pk@~oEvoFkbCerBodDciD|vA"
+                    ],
+                    [
+                        "qpzuTsxc|@_aAkdSqbBcDpk@nkV|wB}`B"
+                    ],
+                    [
+                        "cfmgU{leeAseAaqAksE`pLjj@n_BpnFm~L"
+                    ],
+                    [
+                        "qmciT{``aBegLky@|ExfCnbIvyBv|AggE"
+                    ],
+                    [
+                        "}bumT_`ocBdp@ujDywMapGefAfgAvmNnsJ"
+                    ],
+                    [
+                        "kgs{Tw|xp@c}BbzHpxEyUmzAicH"
+                    ],
+                    [
+                        "qpuhT{vfdBodDci@{m@vsEjsEsiD"
+                    ],
+                    [
+                        "ugvtTi}iw@{eF``@d}BtnCvgBwoD"
+                    ],
+                    [
+                        "_yzbUuv{w@whCvqDl_JztCpfBmcGg}HecA"
+                    ],
+                    [
+                        "scs~T_re}@c|Hqt@diGjtD|q@y~B"
+                    ],
+                    [
+                        "ktzzTukim@yjAu_Ck`HxUzaFrfGhiCw|C"
+                    ],
+                    [
+                        "c~a{T}guaBuG_tDqeRq`BwqApeB~`U~nD"
+                    ],
+                    [
+                        "odeaT}epp@qJsiAaySwsGidEnaBb{G|iK`fOvdCvfAwrG"
+                    ],
+                    [
+                        "}bymUqew`Ac_Em{K_bEnQcRtlE`gFvyHdmDo}B"
+                    ],
+                    [
+                        "qhn~Ts`}r@_nFiGlkDbnEpaAyeE"
+                    ],
+                    [
+                        "i|{fU_rb_Aw{JkrA{x@lyCruLafA"
+                    ],
+                    [
+                        "o|xyTwel`Aw_Hi|M_rCt_BvrLr{J"
+                    ],
+                    [
+                        "{c_{Tua_eAoeEslCa~@`iKpdGm{F"
+                    ],
+                    [
+                        "wt`rTq}gp@siHe~GstA~v@f_KdfF"
+                    ],
+                    [
+                        "q~gxTgjo}@skCepE{gHu~CguA|cBfjKhxGl_CkL"
+                    ],
+                    [
+                        "asewToksaAozDczDlc@txG`vCs}A"
+                    ],
+                    [
+                        "qfohTm{|s@ktFif@{~BduDxdIvgDln@svH"
+                    ],
+                    [
+                        "}|tjUuv~}@wgB{iF}xC`sGtaGeh@"
+                    ],
+                    [
+                        "gj}kTa|tVmgGulBd|AfnFhjDq`C"
+                    ],
+                    [
+                        "wieaTikrn@wwCinDaeD|gChtC`kCphDudB"
+                    ],
+                    [
+                        "kibbTss{o@{kEm|BeDheG`qE{gC"
+                    ],
+                    [
+                        "k~wgTgn`m@ewCikJqpHj_A|rDdqHvtGgE"
+                    ],
+                    [
+                        "ofbxTa}{`B}fQuiBcG|qC~nQgg@"
+                    ],
+                    [
+                        "gmcjT{igp@utDy{EimJzoAwa@blDnmI~oBfwFeqC"
+                    ],
+                    [
+                        "uqulTuknu@srFiaC_o@tjDtbHkh@"
+                    ],
+                    [
+                        "mm_`Uoiyr@}[erDovGwUj[haKpiEdDplAo|D"
+                    ],
+                    [
+                        "arblTkpaWy_AqpD{_Dz_Dt`FtO"
+                    ],
+                    [
+                        "}eb|Tqivo@_~GgsCmc@vxElbF|mB`_BmsD"
+                    ],
+                    [
+                        "otvjUifg`AwbDsoG{{Mgk@{rH~wFfuApeEf}YuaC"
+                    ],
+                    [
+                        "kqmzT}v~t@erBizE}kH{sBihBzsBddFrbFfcHgG"
+                    ],
+                    [
+                        "qsqhTukum@s`CwxJo{EerBuoC|aDzfGpxIzeFqN"
+                    ],
+                    [
+                        "mm_|T}{ek@s_Br{GvuHjc@cuE_`I"
+                    ],
+                    [
+                        "gmjtTqwni@mfCp|AbaGfdDuyByaG"
+                    ],
+                    [
+                        "}_ymTyujb@uuEscDkEl`K`|E{{E"
+                    ],
+                    [
+                        "ochcUaxr|@uzCgpEi_Dr|El`DpwDnyC}cE"
+                    ],
+                    [
+                        "}cqnTcld^{jDwyAi{FtzGzaF~gDdxD_gAdK}`H"
+                    ],
+                    [
+                        "smkhTmjgo@_pAu}CqaKb_@ve@d_GxkLs`C"
+                    ],
+                    [
+                        "wdxmTcvoa@ca@y`E_mEp~@sYvaHdaCpvApgC_wF"
+                    ],
+                    [
+                        "uualT{hdu@asGidAlj@l_ErgFczB"
+                    ],
+                    [
+                        "gf`pTia{n@mxFgpC`N|wFjiFwfB"
+                    ],
+                    [
+                        "w{cnTef}`@smE{l@uoCniPf{CvzA~aEiwQ"
+                    ],
+                    [
+                        "wywuT_{|sBtjEe}Fcl@ivCgoL_uAwtG~sAhb@j_Ir}Fp`CpdGoj@"
+                    ],
+                    [
+                        "e~spTodzuB{AsnIs|EwQw{@~lHh|Ghs@"
+                    ],
+                    [
+                        "{}fgUsnwbBgpCylDexDjoAPbqF|sEvzCzsBooH"
+                    ],
+                    [
+                        "eqfkUaxq|@i_D_dBefA`lGnfFagD"
+                    ],
+                    [
+                        "qepyTysz`BoiBioEg~IlcAvhMzjC"
+                    ],
+                    [
+                        "cy~mT{}d^kuGs~@ix@fnDlcGb{BfjAujF"
+                    ],
+                    [
+                        "eecpTwcn]wVwzGybGq|@pv@p_J~bFiF"
+                    ],
+                    [
+                        "mrb_U{kctAy_KypD}}AjsEx~FzqB|~EktC"
+                    ],
+                    [
+                        "es_lTurx~AnzD}pB}kHmsDlpBheH"
+                    ],
+                    [
+                        "sf~kTeiheBx`BqcFs_IfnBx}EhtB"
+                    ],
+                    [
+                        "yyzgTc}sn@sxHcpIkaBvbCfvEroLvcEebF"
+                    ],
+                    [
+                        "coinT_lw_@opEscGu{GtOlc@|yEtwG`tC`pDa{B"
+                    ],
+                    [
+                        "e_r|Teryl@osK}iB~InaGb_E|r@jhEojE"
+                    ],
+                    [
+                        "isqgUszgv@pv@vmD`aGc}BsxHso@"
+                    ],
+                    [
+                        "gslvTiys_BggEeXeOpqElwEkxD"
+                    ],
+                    [
+                        "som|T}c{`Bz}AjwEr_BktEq~D_B"
+                    ],
+                    [
+                        "mfpnTwh_cBatAc`GqgCt`Dr|El~A"
+                    ],
+                    [
+                        "y_paUedz~@wpGoOz_DdsDzoBwbD"
+                    ],
+                    [
+                        "i_vmTafgy@{wIyw@gHhfFhxJwu@cVyvB"
+                    ],
+                    [
+                        "weywTe|gx@wiDmk@`uB|sHts@ogG"
+                    ],
+                    [
+                        "knimUw~lbAzAliEzeF_yDyhFmO"
+                    ],
+                    [
+                        "e`}jUsrrbAy^nyHbzF}{EizEo|A"
+                    ],
+                    [
+                        "qxozTioo~AeDvsEvxDq~@qsDgtC"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 460400,
+                "name": "儋州市",
+                "center": [
+                    109.576782,
+                    19.517486
+                ],
+                "centroid": [
+                    109.390059,
+                    19.579264
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 3,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "eczwSejdvBosKweK{wIcnEyxG{rLkpIs~AqgCcdEx_A_qIatRu_TamHayBgbGbvBo}JtTedPzgCa{KdsB}[rbJs{DxbLveG~nEu~CttJgqNhq@fSjsB}vHbpEqvJ}Dly@xtH`fEhlEkgD|dKxkB|bD|jQjn@og@flHaxHxLeqA~uFtcBbpFsz@luHxzB~iGxuA_rDdsFr^vhCmwHhiCh|@nlH}oLbdMdfAsgFovJrkCozG`eDnh@llEpuGv_OsmBlqC__D|fJprBneOoyBdjHquNjsOr\\nBltG|uGzIxkBcnHtlGk|BhcAwgD"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469001,
+                "name": "五指山市",
+                "center": [
+                    109.516662,
+                    18.776921
+                ],
+                "centroid": [
+                    109.511265,
+                    18.825469
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 4,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "eln{Sm~csBswDvoOwjHx_FmqMa_BurIhjAdcEpwC{dBxyIrvCxPd{@nwGgeCpqKd{J}GljCtvGb~CeaBdkBqeH~sH~kFkkAvpGr_IjoAvzFqu@vzFrjD||@{lGfbG_vFfSo~RocCu_GvcEuoCjaB_~H}bC{pBsjBj_AepJurIidEu_@eqAueF{sIzH"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469002,
+                "name": "琼海市",
+                "center": [
+                    110.466785,
+                    19.246011
+                ],
+                "centroid": [
+                    110.421962,
+                    19.210377
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 5,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "esbbT}lnsB~iPwrBrsGrd@bmAnkCh_i@vdRh~BkbDzzLxQfvE}jHpv@iwOy}EytMgzBxiBcrI{|DavMpc@asGcmAe|A{vLrfEweBuaGc~M{wIifC}cDitEgvErZq|B_}CuaG^{zEbpHwO~aI{~BrlBctDy_G_zQ`mA~qCnnJhyDnqExeJlfYju@leL"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469005,
+                "name": "文昌市",
+                "center": [
+                    110.753975,
+                    19.612986
+                ],
+                "centroid": [
+                    110.788535,
+                    19.747363
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 6,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "w}ybT{|guB~yQamAbtDx_Gz~BslBvO_bIzzEcpHh_DscGrxEjn@nbBstD_tHifEyaCrmDs|Lht@iyDciCj_@exGedFklIlsHogBzAq}LufHyaNuuEji@mn@{oGt`F_aAdDkiH`}FifJddFgmBd}Lo_Qy}EkvE}fQkyCecE{tDu{Dj{AijD~rMsqEla@y|DpkEkgKnuC_qLgiByqDbrBmrGde^y|Dx}OuiD|hY`eKxzC|ePr_Iv~Mp_SnhKtrIz}HthB"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469006,
+                "name": "万宁市",
+                "center": [
+                    110.388793,
+                    18.796216
+                ],
+                "centroid": [
+                    110.324496,
+                    18.830445
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 7,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "_jj_Tmy}rB{zLyQi~BjbDi_i@wdRcmAokCssGsd@_jPvrBnyCjmc@o\\rnJhnA~rIzjNdoEhWvxRr}WbnBlmFo_AtfOjlE|hEp_El|MuiDlfCjrAhqQw{Klc@emMogGs_DwoFcjIjzHyhMqfImgD}`A_mEgyHsuI"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469007,
+                "name": "东方市",
+                "center": [
+                    108.653789,
+                    19.10198
+                ],
+                "centroid": [
+                    108.818801,
+                    18.996184
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 8,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "wo`ySwefrBf|DveChtCdtHp|I}G|nDvjCblJyU`mOztF~lEj_E|vHkjA~zRd~A`_L_bQaNmfK{fG{fIhm@eiNxgEshIbl@iwOmzAi`WesFuoO_jIzbOsxOjiC_tH{~AoeO~aGahGxQgkEboO}dEjuCpwAfbJarPrfCq{AhlJnnCdiK{vEhpD"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469021,
+                "name": "定安县",
+                "center": [
+                    110.349235,
+                    19.684966
+                ],
+                "centroid": [
+                    110.312936,
+                    19.483405
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 9,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "khw_TqfitBah@ugMtlGcgAdlCywInF}sKswDsxDsqEp_@o~AqaLtbHqmB`YmoIdvIpsD`d@mbP_wD}rC{_D|xEe}Ele@i{F_aJobIa~@m`D}oCilIliBr`CptHslD|dHoxIfiE{`EktBujElzD~sHhfEobBrtDsxEkn@i_DrcGtaG_@p|B~|CfvEsZ|cDhtEzwIhfCtaGb~MsfEveBd|AzvL`sGbmA`vMqc@"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469022,
+                "name": "屯昌县",
+                "center": [
+                    110.102773,
+                    19.362916
+                ],
+                "centroid": [
+                    110.055723,
+                    19.342208
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 10,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "e{a_Tu}wsBfiJ}Gb_Ee_GpmLcpA|sEk}HphD~@xrEk~ExwF}zAcV_mIowHspG_cFs\\mImiE_mEooGzx@opB{`O|A_}CrvDkcDa`FigHaeApmBe_Hs|EadAevIqsDaYloIubHpmBn~ApaLrqEq_@rwDrxDoF|sKelCxwIulGbgA`h@tgMbrIz|DfzByiBx}ExtM"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469023,
+                "name": "澄迈县",
+                "center": [
+                    110.007147,
+                    19.737095
+                ],
+                "centroid": [
+                    109.990417,
+                    19.700201
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 11,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "}df_TekkvBr|E`dAqmBd_HhgH`eAjcD``F~|CsvDz`O}A{x@npB~lEnoGlIliE~bFr\\xvB_~CtmKniEj{I{jDykB}bDjgD}dKafEilEmy@ytHoiBmxDi}KctGetGowWjmCc}Bi|@{oIpdGgoBsgFsvAvwCehRsoTaz@qiErtAqgTedHo{EbiHq|BzG`vCboJihBzgI}dExJweGpqTzzBrfFyuAtfFqyFin@h{F~`Jd}Eme@z_D}xE~vD|rCad@lbP"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469024,
+                "name": "临高县",
+                "center": [
+                    109.687697,
+                    19.908293
+                ],
+                "centroid": [
+                    109.71548,
+                    19.809704
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 12,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "aao}S{c~xBwwCdhRrgFrvAqdGfoBh|@zoIkmCb}BdtGnwWh}KbtGniBlxDpvJ|D|vHcpEgSksBfqNiq@t~CutJweG_oEr{DybL|[sbJ`{KesBwmDcuL{mJovGkxWauD_tHh`FugIygAs}Fbv@"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469025,
+                "name": "白沙黎族自治县",
+                "center": [
+                    109.452606,
+                    19.224584
+                ],
+                "centroid": [
+                    109.351743,
+                    19.20989
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 13,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "whbzSyhvrBdbDgwSvpQ}cB|rAaoJjnGu`KelCq`KbwJiiKrrF}vA}EecPoBmtGksOs\\ejHpuNoeOnyB}fJqrBmqC~~Cw_OrmBmlEquGaeDoh@skCnzGrgFnvJcdMefAolH|oLiiCi|@whClwHesFs^yuA~qDsCzvJpnMxiExjAzkEpyFwuBdhFhcGzsI{HdqAteFhdEt_@dpJtrIrjBk_AfyHczA"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469026,
+                "name": "昌江黎族自治县",
+                "center": [
+                    109.053351,
+                    19.260968
+                ],
+                "centroid": [
+                    108.993675,
+                    19.226048
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 14,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "{xpxSy_ruB|EdcPsrF|vAcwJhiKdlCp`KknGt`K}rA`oJwpQ|cBebDfwShkEtvIrdJhgAjaLm|@tcBn_DzvEipDonCeiKp{AilJ`rPsfCqwAgbJ|dEkuCfkEcoO`hGyQneO_bG~sHz~ArxOkiC~iI{bOmsHckFomIs[{mJkoJawNyrFmcGcxEicAvgDulGj|BykBbnH}uG{I"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469027,
+                "name": "乐东黎族自治县",
+                "center": [
+                    109.175444,
+                    18.74758
+                ],
+                "centroid": [
+                    109.029671,
+                    18.639822
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 15,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "eewzSkktpB|bMtjHbyBjiJt_LcbG`lGva@vrB|`Ha~@jjFd}VfjBdeJvwD|dOp`Pl~HyzNjlS}}Cf`L}K|aIesBhrA}tChWmjNaoCwbTdZwnG_{Re~A}vHjjA_mEk_EamO{tFclJxU}nDwjCq|I|GitCetHg|DweCucBo_DkaLl|@sdJigAikEuvIgyHbzA|bCzpBkaB~}HwcEtoCncCt_GgSn~RgbG~uF}|@zlG|PxZ"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469028,
+                "name": "陵水黎族自治县",
+                "center": [
+                    110.037218,
+                    18.505006
+                ],
+                "centroid": [
+                    109.951436,
+                    18.549546
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 16,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "mhn~SyviqBmc@dmMiqQv{KmfCkrAm|MtiDp`Q||Kz`EdcUrfLltF`cSk`BbiU|mDh~BylNuzCskE~rDwbImhH?unBgvJbeG{oCwyE{mOjiFsbHr{D|H|aBovKekB{~B}dEjuDcw@|kFalGhqAkuGo}@ahGgkE{aFv[{vEdvE"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469029,
+                "name": "保亭黎族苗族自治县",
+                "center": [
+                    109.70245,
+                    18.636371
+                ],
+                "centroid": [
+                    109.649558,
+                    18.59135
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 17,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "ec_}SuuxqBdkBz~B}aBnvKs{D}HkiFrbHvyEzmOceGzoCtnBfvJlhH?p|IdpBtxAd~KfxGpzErrWy_@rvCuiEudCk`K~Ie}FttDczBlaO}mCzsBssH}PyZwzFsjDwzFpu@s_IkoAjkAwpG_tH_lFekBpeHc~CdaBmjCuvGe{J|GfeCqqKe{@owGsvCyPyiJrwC"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "adcode": 469030,
+                "name": "琼中黎族苗族自治县",
+                "center": [
+                    109.839996,
+                    19.03557
+                ],
+                "centroid": [
+                    109.854584,
+                    19.033919
+                ],
+                "childrenNum": 0,
+                "level": "city",
+                "parent": {
+                    "adcode": 460000
+                },
+                "subFeatureIndex": 18,
+                "acroutes": [
+                    100000,
+                    460000
+                ]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "wfs}SgoiuBnwHrpGbV~lIywF|zAyrEj~EqhD_A}sEj}HqmLbpAc_Ed_GgiJ|Gqv@hwOgvE|jHfyHruI|`A~lEpfIlgDkzHxhMvoFbjIngGr_DzvEevEzaFw[`hGfkEjuGn}@`lGiqAbw@}kF|dEkuDxiJswCzdByyIecEqwCtrIijAlqM`_BvjHy_FrwDwoOehFicGqyFvuByjA{kEqnMyiErC{vJyzB_jGrz@muHucBcpFdqA_vF`xHyLng@glH}jQkn@k{IzjDumKoiEyvB~}C"
+                    ]
+                ]
+            }
+        }
+    ]
+}
